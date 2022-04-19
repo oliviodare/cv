@@ -104,8 +104,9 @@ Devine S, Bautista Perpinyà M, Delrue V, Gaillard S, Jorna T, van der Meer M, M
 
 Burgos DF, Cussó L, Sánchez-Elexpuru G, Calle D, Perpinyà MB, Desco M, Serratosa JM, Sánchez MP. 'Structural and Functional Brain Abnormalities in Mouse Models of Lafora Disease.' *International Journal of Molecular Sciences*. 2020; 21(20):7771. <a href="https://doi.org/10.3390/ijms21207771" target="_blank">https://doi.org/10.3390/ijms21207771</a>.
 
+<div id="hiddendiv">
 Pfeiffer LM, Thiele S, Bautista Perpinyà ME, Coenen VA, Döbrössy MD (2016). 'Characterization of pre- and post-weaning behavior in a rodent model of depression: Early affective dysfunction reflected in Vocalization.' Poster session, *XXII Congress of the European Society for Stereotactic and Functional Neurosurgery*, 28-09 to 01-10, Madrid (Spain).
-
+</div>
 
 ## Talks and public apperances
 `Jul 13, 2021`
@@ -138,7 +139,6 @@ __Invited speaker, IV Conveción Científica Internacional (Universidad Técnica
 - Roundtable: ‘Sistemas latinoamericanos de indexación: ética o estética.’
 - Talk: 'Ciencia Abierta: Globalidad y Localidad.'
 
-
 `May 25, 2020`
 __Panellist, Open Publishing Fest__
 - Talk: 'Presenting the Journal of Trial and Error.'
@@ -147,12 +147,10 @@ __Panellist, Open Publishing Fest__
 __Invited speaker and panellist, University of Bern__
 - Talk: 'The Journal of Trial and Error meets the Early-Career Swiss Society for Neuroscience.'
 
-
 `Feb 12, 2020`
 __Invited speaker, Erasmus University Rotterdam__
 - Open Science Community Rotterdam
 - 'ReproducibiliTea: Meet the Journal of Trial and Error.'
-
 
 `Nov 26, 2019`
 __Seminar organiser and presenter, Utrecht University__
@@ -178,7 +176,6 @@ __Workshop speaker, Utrecht University (NL)__
 - 'Community Research Ethics and Publication Ethics', ‘Publication Possibilities, Scientific Outreach and Open Science.’  	
 - Life Science Faculty Introductory days for 500+ new master students.
 
-
 `2016`
 __Student supervisor, Biological & Personality Psychology Laboratory, Universität Freiburg (DE)__
 - Daily management of several undergraduates. Teaching a neuroimaging sectioning manual technique to the students.
@@ -190,7 +187,9 @@ Max Bautista Perpinyà (2021). “Online conferences won’t do it. Instead of 
 
 Max Bautista Perpinyà (2020). 'JOTE in conversation with researchers: Daniël Lakens. Whose fault is it that science is irreproducible? And who the heck are metascientists?' *Journal of Trial and Error*. <a href="https://www.jtrialerror.com/2020/05/31/jote-in-conversation-with-researchers-daniel-lakens-whose-fault-is-it-that-science-is-irreproducible-and-who-the-heck-are-metascienists/" target="_blank">Link</a>.
 
+<div id="hiddendiv">
 Max Bautista Perpinyà (2020). 'JOTE in conversation with researchers. How does failure arise? How do you deal with it? – Léa Roumazeilles.' *Journal of Trial and Error*. <a href="https://www.jtrialerror.com/2020/03/05/jote-in-conversation-with-researchers-how-does-failure-arise-how-do-you-deal-with-it-lea-roumazeilles/" target="_blank">Link</a>.
+</div>
 
 Max Bautista Perpinyà (2020). 'Open Science Symposium – Starting off with the Natural Sciences.' *The Road to Open Science*, Open Science Community Utrecht. <a href="https://openscience-utrecht.com/open-science-symposium-starting-off-with-the-natural-sciences/" target="_blank">Link</a>.
 
@@ -198,8 +197,10 @@ Max Bautista Perpinyà, Martijn van der Meer (2019). 'Are we facing a bigger mo
 
 Max Bautista Perpinyà (2020). 'Holanda Abierta.' *Científicos Españoles en los Países Bajos/Spanish Scientists in the Netherlands (CENL/SWNL)*.
 
+<div id="hiddendiv">
 ## Technical IT skills
 Front-end website design (CSS, HTML), Python, Pure (management system for research publications), Open Journal Systems, Graphic design (Photoshop, Lightroom), Freesurfer, SPSS, ITK-Snap, Linux, ImageJ.
+</div>
 
 <div id="hiddendiv">
 ## Molecular Laboratory skills
