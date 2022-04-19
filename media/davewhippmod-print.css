@@ -290,7 +290,7 @@ strong {
    thead {display: table-header-group;}
    tfoot {display: table-footer-group;}
 
-button {display: none;}
+#button-long {display: none;}
 
    body {margin: 0;}
 }
