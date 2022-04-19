@@ -24,9 +24,6 @@ time, mark, audio, video {
 	vertical-align: baseline;
 }
 
-#visible_inprint {
-	display: none !important;
-}
 
 /* HTML5 display-role reset for older browsers */
 article, aside, details, figcaption, figure,
@@ -51,11 +48,15 @@ table {
 	border-collapse: collapse;
 	border-spacing: 0;
 }
-
 /* end of reset */
 
+/* VARIABLES SET */
+:root
+{
+  --leftstart: 140px;}
+/* end of VARIABLES */
 
-
+/* BASIC DIVS SET */
 body {
 	/*font: normal normal 400;*/
 	font-family: normal;
@@ -185,6 +186,29 @@ h1 {
 			width: 50%;
 }
 
+em {
+	/* font-weight: bold; */
+	font-style: italic;
+}
+
+strong {
+	font-weight: bold;
+	left: 25%;
+	width: 45%;
+   	margin-top: 0.25em;
+   	margin-bottom: 0.7em;
+    	margin-right: 0;
+}
+
+
+/* end of BASIC DIVS */
+
+
+/* INDIVIDUAL SECTIONS ADJUSTMENTS */
+#visible_inprint {
+	display: none !important;
+}
+
 #myself, #visible_inscreen {
 	position: relative;
 	left: 33%;
@@ -208,28 +232,19 @@ h1 {
 	width: 45%;
 }
 
-em {
-	/* font-weight: bold; */
-	font-style: italic;
-}
-
-strong {
-	font-weight: bold;
-	left: 25%;
-	width: 45%;
-   	margin-top: 0.25em;
-   	margin-bottom: 0.7em;
-    	margin-right: 0;
-}
-
 #main {
 	position: relative;
 	top: 10px;
 }
 
-:root
-{
-  --leftstart: 140px;}
+#visible_inprint {
+	display: none !important;
+}
+
+/* end of INDIVIDUAL SECTIONS ADJUSTMENTS */
+
+
+
 
 /* This hack fixes scrollable on x for tablets */
 @media only screen and (max-width: 1024px) {
@@ -238,12 +253,13 @@ strong {
   }
 }
 
+/* FOR SCREENS OF NORMAL SIZE */
 @media only screen and (max-width: 1000px) {
 	body, content {
 		width:100%;
 	}
 
-	p, #currentlytext, #myself, #visible_inscreen  {
+p, #currentlytext, #myself, #visible_inscreen  {
 		left: 20px;
 		top: 29px;
 		width: 74%;
@@ -306,6 +322,9 @@ strong {
 
 }
 
+/* END OF FOR SCREENS OF NORMAL SIZE */
+
+
 #button {
 	  display: flex;
 	  flex-direction: column;
@@ -332,8 +351,4 @@ strong {
 	}
 
 
-}
-
-#visible_inprint {
-	display: none !important;
 }

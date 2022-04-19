@@ -28,7 +28,6 @@ time, mark, audio, video {
 	size: A4;
 	        }
 
-
 /* HTML5 display-role reset for older browsers */
 article, aside, details, figcaption, figure,
 footer, header, hgroup, menu, nav, section {
@@ -53,19 +52,18 @@ table {
 	border-collapse: collapse;
 	border-spacing: 0;
 }
-
 /* end of reset */
 
-
+/* VARIABLES SET */
 :root
 {
   /*--leftstart: 18%;*/
 	--leftstart: 3%;
 	--thewidth: 90%;}
+/* end of VARIABLES */
 
 
-
-
+/* BASIC DIVS SET */
 body {
 	/*font: normal normal 400;*/
 	font-family: normal;
@@ -207,22 +205,6 @@ a:hover {
 	transition-duration: 0.8s;
 }
 
-
-#myself, #visible_inprint  {
-	position: relative;
-	left: var(--leftstart);
-	margin-bottom: 0.7em;
-	margin-top: 0.7em;
-	margin-right: 0;
-	/*width: 73%;*/
-	width: var(--thewidth);
-	text-align: justify;
-}
-
-
-
-
-
 em {
 	/* font-weight: bold; */
 	font-style: italic;
@@ -237,6 +219,20 @@ strong {
   margin-right: 0;
   margin-left: 1%;
 }
+/* end of BASIC DIVS */
+
+
+/* MAKING THINGS (IN)VISIBLE */
+#myself, #visible_inprint  {
+	position: relative;
+	left: var(--leftstart);
+	margin-bottom: 0.7em;
+	margin-top: 0.7em;
+	margin-right: 0;
+	/*width: 73%;*/
+	width: var(--thewidth);
+	text-align: justify;
+}
 
 #currently, #currentlytext, #hiddendiv {
 	display: none !important;
@@ -250,6 +246,11 @@ strong {
 #visible_inscreen {
 	display: none;
 }
+
+/* end of MAKING THINGS (IN)VISIBLE */
+
+
+
 
 /* STYLES FOR HEADERS AND FOOTERS */
 /*SEE https://medium.com/@Idan_Co/the-ultimate-print-html-template-with-header-footer-568f415f6d2a*/
