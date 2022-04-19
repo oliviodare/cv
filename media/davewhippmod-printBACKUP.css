@@ -72,7 +72,7 @@ body {
 	font-weight: 400;
 	/*font-size: 93%;*/
 	font-size: 73%;
-	line-height: 1.43em;
+	line-height: 1.42em;
 	/*also written as...  font: normal normal 400 100%/1.5em;*/
 	font-family: Avenir,Verdana,sans-serif;
 	margin-top: 4mm;
@@ -104,14 +104,13 @@ code {
 p code {
 	font-size: 0.9em;
 	color: #1d1d1d;
-	/*font-style: italic;*/
+	font-style: italic;
 	text-decoration: none;
 	/*position: absolute;*/
 	text-align: left;
 	/*left: -25%;*/
 	/*left: -19%;*/
 	max-width: 20%;
-	/*padding-top:10PX;*/
 }
 
 
@@ -180,12 +179,12 @@ h2 {
 	/*text-decoration: underline;*/
 	color: #d94d70;
 	position: relative;
-	/*bottom: 0.33em;*/
+	bottom: 0.33em;
 	left: var(--leftstart);
 	text-align: left;
 	/*width: 73%;*/
 	width: var(--thewidth);
-	margin-top: 12px;
+	margin-top: 23px;
 }
 
 h3 {
@@ -208,7 +207,7 @@ a:hover {
 }
 
 
-#myself  {
+#myself, #webaddress4print {
 	position: relative;
 	left: var(--leftstart);
 	margin-bottom: 0.7em;
@@ -219,6 +218,13 @@ a:hover {
 	text-align: justify;
 }
 
+#webaddress4print {
+	margin-top: 1em;
+	/*color: #d94d70;*/
+	/*font-family: Monaco,Menlo,monospace,sans-serif;*/
+	font-family: Avenir,Verdana,sans-serif;
+	font-size: 100%;
+}
 
 
 
@@ -254,53 +260,4 @@ strong {
 #main {
 	position: relative;
 	top: 10px;
-}
-
-
-/* STYLES FOR HEADERS AND FOOTERS */
-/*SEE https://medium.com/@Idan_Co/the-ultimate-print-html-template-with-header-footer-568f415f6d2a*/
-
-.page-header, .page-header-space {
-  height: 1px;
-}
-
-.page-footer, .page-footer-space {
-  height: 1px;
-
-}
-
-.page-footer {
-  position: fixed;
-  bottom: 0;
-  width: 100%;
-  /*border-top: 1px solid black;
-  background: yellow;  */
-}
-
-.page-header {
-  position: fixed;
-  top: 0mm;
-  width: 100%;
-  /*border-bottom: 1px solid black;
-  background: yellow;  */
-}
-
-.page {
-  page-break-after: always;
-}
-
-@page {
-	margin-left: 12mm;
-	margin-right:12mm;
-	margin-bottom:15mm;
-	margin-top:15mm;
-}
-
-@media print {
-   thead {display: table-header-group;}
-   tfoot {display: table-footer-group;}
-
-button {display: none;}
-
-   body {margin: 0;}
 }
