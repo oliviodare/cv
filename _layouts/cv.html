@@ -3,48 +3,16 @@
 <head>
   <meta charset=utf-8 />
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title> {% if page.title %} {{ page.title }} | CV </title>
+  <title> {% if page.title %} {{ page.title }} </title>
   <link href="media/{{ site.style }}-screen.css" type="text/css" rel="stylesheet" media="screen">
   <link href="media/{{ site.style }}-print.css" type="text/css" rel="stylesheet" media="print">
   <link rel="shortcut icon" type="image/png" href="favicon.png">
 </head>
 <body>
-  <div class="page-header" style="text-align: center">
-    <br/>
-    <button type="button" onClick="window.print()" style="background: #fbf6f5">
-      PRINT ME!
-    </button>
-  </div>
-  <div class="page-footer">
-  </div>
-  <table>
-    <thead>
-      <tr>
-        <td>
-          <!--place holder for the fixed-position header-->
-          <div class="page-header-space"></div>
-        </td>
-      </tr>
-    </thead>
-    <tbody>
-      <tr>
-        <td>
     <div id="main">
     <div id="content">
     {{ content }}
     </div>
   </div>
-</td>
-</tr>
-</tbody>
-<tfoot>
-  <tr>
-    <td>
-      <!--place holder for the fixed-position footer-->
-      <div class="page-footer-space"></div>
-    </td>
-  </tr>
-</tfoot>
-</table>
 </body>
 </html>
