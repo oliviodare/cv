@@ -208,7 +208,7 @@ a:hover {
 }
 
 
-#myself  {
+#myself, #visible_inprint  {
 	position: relative;
 	left: var(--leftstart);
 	margin-bottom: 0.7em;
@@ -218,6 +218,7 @@ a:hover {
 	width: var(--thewidth);
 	text-align: justify;
 }
+
 
 
 
@@ -246,6 +247,9 @@ strong {
 	top: 10px;
 }
 
+#visible_inscreen {
+	display: none;
+}
 
 /* STYLES FOR HEADERS AND FOOTERS */
 /*SEE https://medium.com/@Idan_Co/the-ultimate-print-html-template-with-header-footer-568f415f6d2a*/
@@ -290,7 +294,7 @@ strong {
    thead {display: table-header-group;}
    tfoot {display: table-footer-group;}
 
-#button-long {display: none;}
+#button {display: none;}
 
    body {margin: 0;}
 }

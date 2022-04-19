@@ -23,6 +23,11 @@ time, mark, audio, video {
 	font: inherit;
 	vertical-align: baseline;
 }
+
+#visible_inprint {
+	display: none !important;
+}
+
 /* HTML5 display-role reset for older browsers */
 article, aside, details, figcaption, figure,
 footer, header, hgroup, menu, nav, section {
@@ -180,7 +185,7 @@ h1 {
 			width: 50%;
 }
 
-#myself {
+#myself, #visible_inscreen {
 	position: relative;
 	left: 33%;
 	margin-bottom: 0.7em;
@@ -190,7 +195,7 @@ h1 {
 }
 
 
-#hiddendiv {
+#hiddendiv, #emaillinked {
 	display: none !important;
 }
 
@@ -238,7 +243,7 @@ strong {
 		width:100%;
 	}
 
-	p, #currentlytext, #myself  {
+	p, #currentlytext, #myself, #visible_inscreen  {
 		left: 20px;
 		top: 29px;
 		width: 74%;
@@ -247,10 +252,11 @@ strong {
 		/*text-align: right;*/
 	}
 
-#myself {
+#myself, #visible_inscreen {
 	top: 0px;
 
 }
+
 
 
 	h1 {
@@ -300,7 +306,7 @@ strong {
 
 }
 
-#button-long {
+#button {
 	  display: flex;
 	  flex-direction: column;
 	  align-items: center;
@@ -320,10 +326,14 @@ strong {
 		right:19px;
 	}
 
-#button-long:focus {
+#button:focus {
 	  box-shadow: inset 0px 0.8px 0px -0.25px rgba(255, 255, 255, 0.2), 0px 0.5px 1px rgba(0, 0, 0, 0.1), 0px 0px 0px 3.5px rgba(58, 108, 217, 0.5);
 	  outline: 0;
 	}
 
 
+}
+
+#visible_inprint {
+	display: none !important;
 }
