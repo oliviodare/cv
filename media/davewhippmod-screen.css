@@ -190,6 +190,10 @@ h1 {
 }
 
 
+#hiddendiv {
+	display: none !important;
+}
+
 
 #currentlytext {
 	position: relative;

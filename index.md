@@ -84,7 +84,7 @@ __'Coronavirus crisis speed research', Freudenthal Institute, Utrecht University
 - 'What does it mean to die as a senior? The evolving narrative of death in Spain during the coronavirus pandemic.'
 - 2000€ awarded.
 
-<p hidden>
+<div id="hiddendiv">
 `Mar-May 2016`
 __Scholarship Boussole, Region Alsace (FR)__
 - 900€ awarded to perform an internship abroad (Germany).
@@ -92,7 +92,7 @@ __Scholarship Boussole, Region Alsace (FR)__
 `Nov 2015-Feb 2016`
 __Scholarship Erasmus+,	European Commission__
 - 1256€ awarded to perform an internship abroad (Germany).
-</p>
+</div>
 
 
 ## Publications
@@ -197,10 +197,10 @@ Max Bautista Perpinyà (2020). 'Holanda Abierta.' *Científicos Españoles en
 ## Technical IT skills
 Front-end website design (CSS, HTML), Python, Pure (management system for research publications), Open Journal Systems, Graphic design (Photoshop, Lightroom), Freesurfer, SPSS, ITK-Snap, Linux, ImageJ.
 
-<p hidden>
+<div id="hiddendiv">
 ## Molecular Laboratory skills
 Immunohistochemistry, (RT)-PCR, Western blot, Stereological methods, Rodent handling (European Certificate), Tissue Sectioning (vibratome, cryostat).
-</p>
+</div>
 
 
 ## Languages

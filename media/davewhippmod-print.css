@@ -222,16 +222,6 @@ a:hover {
 
 
 
-#currentlytext {
-	display: none;
-	position: relative;
-	left: var(--leftstart);
-	margin-bottom: 0.54em;
-	margin-right: 0;
-	width: var(--thewidth);
-	text-align: justify;
-}
-
 em {
 	/* font-weight: bold; */
 	font-style: italic;
@@ -247,7 +237,7 @@ strong {
   margin-left: 1%;
 }
 
-#currently {
+#currently, #currentlytext, #hiddendiv {
 	display: none !important;
 }
 
