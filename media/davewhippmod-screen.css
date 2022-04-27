@@ -245,7 +245,6 @@ strong {
 
 
 
-
 /* This hack fixes scrollable on x for tablets */
 @media only screen and (max-width: 1024px) {
   body {
@@ -253,7 +252,7 @@ strong {
   }
 }
 
-/* FOR SCREENS OF NORMAL SIZE */
+/* FOR MOBILE  */
 @media only screen and (max-width: 1000px) {
 	body, content {
 		width:100%;
@@ -261,22 +260,23 @@ strong {
 
 p, #currentlytext, #myself, #visible_inscreen  {
 		left: 20px;
-		top: 29px;
-		width: 74%;
-		margin-bottom: 1.8em;
+		top: 55px;
+		width: 98%;
+		padding-bottom: 1.8em;
 		/*text-indent: var(--leftstart);*/
 		/*text-align: right;*/
+		font-size: 1.4em;
+		padding-top: 52PX;
 	}
+
 
 #myself, #visible_inscreen {
 	top: 0px;
 
 }
 
-
-
 	h1 {
-		font-size: 2.7em;
+		font-size: 4.7em;
 		left:20px;
 		width: 80%;
 	}
@@ -284,45 +284,70 @@ p, #currentlytext, #myself, #visible_inscreen  {
 	strong {
     left: 0%;
     width: 45%;
-    margin-top: 0.25em;
+    margin-top: 0.5em;
     margin-bottom: 0.7em;
     margin-right: 0;
     position: relative;
-    top: 21px;
+    top: 59px;
 }
 	p code {
 		max-width: 100%;
 		left:0px;
 		text-indent: 0px;
+		font-size: 1.9em;
+		padding-top: 11px
 	}
 
 	ul {
 		position: relative;
 		left: 20px;
 		top: 23px;
-		width: 100%;
+		/* width: 100%;
 		margin-bottom: 0em;
 		margin-top: 0em;
+		font-size: 1.4em; */
 	}
 
 	li {
 		width: 74%;
+		position: relative;
+		top: 39px;
+		width: 100%;
+		margin-bottom: 0em;
+		margin-top: 1.5em;
+		font-size: 1.4em;
+		left: 0;
 	}
 
 	h2 {
-		font-size: 1.73em;
-		top:19px;
+		font-size: 3em;
+		top:88px;
 		width: 100%;
 		text-align: left;
 		left: 20px;
 		margin-top: 40px;
 	}
 
+#last-update {
+	position: relative;
+	top:50px;
+}
 
+.page-header #button {
+		font-size: 2em;
+
+	  border-radius: 6px;
+
+	  box-shadow: 0px 0.5px 1px rgba(0, 0, 0, 0.1), inset 0px 0.5px 0.5px rgba(255, 255, 255, 0.5), 0px 0px 0px 0.5px rgba(0, 0, 0, 0.12);
+
+    z-index: 1;
+    bottom: 15px;
+		right:19px;
+	}
 
 }
 
-/* END OF FOR SCREENS OF NORMAL SIZE */
+/* END OF FOR MOBILE */
 
 
 #button {

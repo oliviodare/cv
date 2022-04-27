@@ -234,7 +234,7 @@ strong {
 	text-align: justify;
 }
 
-#currently, #currentlytext, #hiddendiv {
+#currently, #currentlytext, #hiddendiv, #last-update {
 	display: none !important;
 }
 

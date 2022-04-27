@@ -74,7 +74,7 @@ __Editorial Assistant, Project Management @ ARTECHNE, Utrecht University__
 -   Edition and management of two edited volumes: *Histories of Conservation and Art History in Modern Europe* (Routledge) and *The Making of Technique in the Art* (Brepols).
 -  Prof. Dr. Sven Dupré.
 
- `Jan-Dec 2020`
+`Jan-Dec 2020`
 __Assistant Managing Editor @  Journal for the History of Knowledge__
 - Manuscript anonymisation, contact with reviewers, coordination with editors-in-chief.
 
@@ -216,7 +216,7 @@ Spanish: Native, Catalan: Native, English: Full Professional, French: Intermedia
 ## ---
 <br/><br/><br/><br/><br/><br/>
 
-<h2 id="currently">Last Update</h2>
+<h2 id="last-update">Last Update</h2>
 
 <div id="visible_inscreen">
 April 2022
