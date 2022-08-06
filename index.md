@@ -4,7 +4,7 @@ title: Max Bautista Perpinyà's CV
 ---
 # Max Bautista Perpinyà, *Curriculum Vitae*
 <div id="myself">
-PhD student in the History and Philosophy of Science. Interested in Open Science as reform movement of academia. Cofounder of the Journal of Trial and Error. Based in Brussels.</div>
+'Aspirant' Doctoral Fellow of the Belgian National Science Fund (FNRS, Fonds National de la Recherche Scientifique).</div>
 
 <div id="visible_inscreen">
 E-mail: max dot bautista @ uclouvain dot be | Personal site: <a href="https://www.oliviodare.com/" target="_blank" >www.oliviodare.com</a>
@@ -16,15 +16,12 @@ E-mail: max dot bautista @ uclouvain dot be | Personal site: <a href="https://ww
 
 <h2 id="currently">Currently</h2>
 <div id="currentlytext">
-I'm doing my PhD in the History and Philosophy of Science based in UCLouvain, in Belgium. I study how the concept of ‘biodiversity’ is operationalised outside the sciences, namely how different community of actors (scientific advocacy groups, policy-makers, NGO’s, local communities) understand and manage the biodiversity crisis. I am particularly interested in the knowledge circulation between science and politics, and the transformations in the meaning of the ‘biodiveristy’ concept.</div>
-
-<div id="currentlytext">
-My PhD is part of a larger HPS project at the <a href="https://pencelab.be" target="_blank">Pence Lab</a> that aims at clarifying the ‘<a href="https://blog.pencelab.be/2021/mapping-and-responding-to-taxonomic-disorder/" target="_blank">Taxonomic Disorder</a>’ in conservation biology.</div>
-
+I am a PhD candidate in the History and Philosophy of Science based in UCLouvain, in Belgium. I am interested in the historicity of 'biodiversity', which appears both as a technical tool in conservation and nature management projects and as a fertile concept able to mobilise great social and political efforts. My project is set in the Spanish context, based on three case studies in the last third of the twentieth century. I study how three different expert groups understood and valued diversity, and how they envisioned the relation between science, nature, and society. I look at the cases of 1- state forest engineers, 2- regional nature conservation activists, and 3- biologists at a seed cryopreservation station.</div>
 
 ## Education
 `2021-now`
 __PhD History and Philosophy of Science, Université catolique de Louvain (BE)__
+- FNRS (Fonds National de la Recherche Scientifique) 'Aspirant' Fellow
 
 `2018-2020`
 __MSc History and Philosophy of Science, Utrecht University (NL)__
@@ -79,6 +76,11 @@ __Assistant Managing Editor @  Journal for the History of Knowledge__
 - Manuscript anonymisation, contact with reviewers, coordination with editors-in-chief.
 
 ## Awards and Fellowships
+`2022-ongoing`
+__'Aspirant' Doctoral Fellow of the Fonds National de la Recherche Scientifique (BE)__
+- BIODIVKNOVAL: 'Biodiversity and conservation science in Spain, 1970-present: knowledge and values in transition.'
+- Fully-funded 2-year Fellowship, extensible to an additional 2 years.
+
 `May 2022`
 __Vicent Peset Llorca Fellowship 2021-22, Inter-university Institute López Piñero for the History of Medicine and Science, Universitat de València (ES)__
 - 'Empirical ground: first round of archive-based enquiries for a historical project on the concept of biodiversidad in the Spanish conservation movement and the work of ICONA's 'ingenieros de montes' (1970-2000)'
@@ -109,6 +111,10 @@ Pfeiffer LM, Thiele S, Bautista Perpinyà ME, Coenen VA, Döbrössy MD (2016)
 </div>
 
 ## Talks and public apperances
+`May 13, 2022`
+__Speaker, III Congreso de la Red  España de Historia Ambiental de España, May 11-13__
+- Talk: 'Descentralizando la historia de la biodiversidad: el conocimiento científico y su co-construcción con políticas nacionales ambientales en el ICONA.'
+
 `Jul 13, 2021`
 __Speaker, British Society for the History of Science__
 - Lightning Session: 'Patrons, Publics, and Profiteers: Selling Science in the Nineteenth and Twentieth Centuries.'
