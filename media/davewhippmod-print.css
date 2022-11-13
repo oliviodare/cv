@@ -175,8 +175,9 @@ h1+p {
 h2 {
 	/*font-size: 1.43em;*/
 	font-size: 1.1em;
-	/*text-decoration: underline;*/
-	color: #d94d70;
+	text-decoration: underline;
+	color: #d94d70; /*this color looks weird and off in pdf**/
+	color: #d90429; /*good red*/
 	position: relative;
 	/*bottom: 0.33em;*/
 	left: var(--leftstart);
