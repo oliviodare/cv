@@ -152,6 +152,7 @@ h1+p {
 h2 {
 	font-size: 1.43em;
 	color: #d90429; /*good red*/
+	color: #244fb5; /*blue*/
 	position: relative;
 	top: 1.4em;
 	text-align: right;
