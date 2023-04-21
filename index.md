@@ -75,7 +75,7 @@ Burgos DF, Cussó L, Sánchez-Elexpuru G, Calle D, Perpinyà MB, Desco M, Serrat
 
 
 ### Book reviews
-Max Bautista Perpinyà & Charles H Pence. 'David Sepkoski, Catastrophic Thinking: Extinction and the Value of Diversity from Darwin to the Anthropocene*, Chicago, IL: University of Chicago Press, 2020, £28.00, ISBN 9780226348612.' <a href="https://www.thebsps.org/reviewofbooks/perpinya-pence-on-sepkoski/" target="_blank">https://www.thebsps.org/reviewofbooks/perpinya-pence-on-sepkoski/</a>.
+Max Bautista Perpinyà & Charles H Pence. 'David Sepkoski, *Catastrophic Thinking: Extinction and the Value of Diversity from Darwin to the Anthropocene*, Chicago, IL: University of Chicago Press, 2020, £28.00, ISBN 9780226348612.' <a href="https://www.thebsps.org/reviewofbooks/perpinya-pence-on-sepkoski/" target="_blank">https://www.thebsps.org/reviewofbooks/perpinya-pence-on-sepkoski/</a>.
 
 ## Selected talks and events
 `October 20-21, 2023`
