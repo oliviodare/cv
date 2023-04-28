@@ -79,12 +79,12 @@ Burgos DF, Cussó L, Sánchez-Elexpuru G, Calle D, Perpinyà MB, Desco M, Serrat
 
 ## Selected talks and events
 `October 20-21, 2023`
-__Co-organiser, Integrating the History and Philosophy of Biodiversity. Narratives of Diversity, Extinction, Conflict and Value**, Brussels__
+__Co-organiser, Integrating the History and Philosophy of Biodiversity. Narratives of Diversity, Extinction, Conflict and Value, Brussels__
 - Co-organised with Charles H. Pence. Hosted at the Museum of Natural Sciences.
 - <a href="https://pencelab.be/events/biodiversity-2023/" target="_blank">https://pencelab.be/events/biodiversity-2023/</a>
 
 `April 20-21, 2023`
-__Speaker, 9th PhD Conference in History of Science and Humanities**, Soeterbeeck Abbey (NL)__
+__Speaker, 9th PhD Conference in History of Science and Humanities, Soeterbeeck Abbey (NL)__
 - “Scientific forestry in post-Franco Spain: making “better” trees at a national network of experimental stations.”
 
 `September 9, 2022`
