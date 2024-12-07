@@ -119,7 +119,7 @@ title: "Curriculum Vitae"
 ## Premis i Distincions
 - Doctorand 'Aspirant' del Fons Nacional de la Recerca Científica de Bèlgica (FNRS). Beca de 4 anys.
 - Resident, Residència d'escriptura 'Ciències de la Terra: Història, Ciència i Societat,' Faberllull Olot, 2024
-- Participant finançat, Escola d'estiu internacional 'Perspectives interdisciplinàries sobre les crisis climàtiques i de biodiversitat: Evolucions històriques, realitats actuals i camins futurs per a la transformació socioecològica,' École Normale Supérieure i Centre Marc Bloch, 2023
+- Participant finançat, Escola d'estiu internacional 'Interdisciplinary Perspectives on Climate and Biodiversity Crises: Historical evolutions, current realities, and future pathways for socio-ecological transformation,' École Normale Supérieure i Centre Marc Bloch, 2023
 - Beca Vicent Peset Llorca 2021-22, Institut Interuniversitari López Piñero per a la Història de la Medicina i la Ciència, Universitat de València
 - "What does it mean to die as a senior? The evolving narrative of death in Spain during the coronavirus pandemic," (2020) 'Coronavirus crisis speed research', Freudenthal Institute, Utrecht University
 
