@@ -1,145 +1,130 @@
 ---
-layout: cv
-title: Max Bautista Perpinyà's CV
+layout: default
+title: "Curriculum Vitae"
 ---
-# Max Bautista Perpinyà, *Curriculum Vitae*
-<div id="myself">
-'Aspirant' Doctoral Fellow of the Belgian National Science Fund (FNRS, Fonds National de la Recherche Scientifique).</div>
 
-<div id="visible_inscreen">
-E-mail: max dot bautista @ uclouvain dot be | Personal site: <a href="https://www.oliviodare.com/" target="_blank" >www.oliviodare.com</a>
-</div>
+# _Curriculum vitae_, Max Bautista-Perpinyà
 
-<div id="visible_inprint">
-<a href="mailto:max.bautista@uclouvain.be?subject=Hello!">max.bautista@uclouvain.be</a> | Personal site: <a href="https://www.oliviodare.com/" target="_blank" >www.oliviodare.com</a>
-</div>
-
-<h2 id="currently">Currently</h2>
-<div id="currentlytext">
-I am a PhD candidate in the History and Philosophy of Science based at UCLouvain, in Belgium. I am interested in the historicity of 'biodiversity', which appears both as a technical tool in conservation and nature management projects and as a fertile concept able to mobilise great social and political efforts. My project is set in the Spanish context, based on three case studies in the last third of the twentieth century. I study how three different expert groups understood and valued diversity, and how they envisioned the relationship between science, nature, and society. I look at the cases of 1- state forest engineers, 2- regional nature conservation activists, and 3- biologists at a seed cryopreservation station.</div>
+## Personal Information
+- **Name:** Max Bautista-Perpinyà
+- **Email:** max.bautista@uclouvain.be
+- **Phone:** +32 (0) 497 22 70 27
+- **ORCID:** <a href="https://orcid.org/0000-0002-5202-6961" target="_blank">0000-0002-5202-6961</a>
+- **Personal site:** <a href="https://oliviodare.com/" target="_blank">oliviodare.com</a>
 
 ## Education
-`2021-now`
-__PhD History and Philosophy of Science, Université catolique de Louvain (BE)__
-- FNRS (Fonds National de la Recherche Scientifique) 'Aspirant' Fellow
+### Ph.D. in Philosophy
+- **Institution:** Université catholique de Louvain
+- **Projected graduation:** 2026
+- **Thesis:** "The success and deradicalisation of ecology. Forests, environmentalism, and values in the making of Spanish contemporary democracy (1982-2007)"
 
-`2018-2020`
-__MSc History and Philosophy of Science, Utrecht University (NL)__
-- Graduated Cum Laude.
+### M.Sc. in History and Philosophy of Science, Cum Laude
+- **Institution:** Utrecht University
+- **Year:** 2020
+- **Thesis:** "To be a molecular scientist. The negotiation of epistemic and social virtues in 1970s *Nature*’s marketplace"
 
-`2014-2016`
-__MSc Neuroscience, Université de Strasbourg (FR) & Universität Freiburg (DE)__
-- Graduated with High Honours (Mention Bien).
+### M.Sc. in Neuroscience, High Honours
+- **Institution:** Université de Strasbourg, Universität Freiburg
+- **Year:** 2016
+- **Thesis:** "Limbic morphology and emotion in Borderline Personality Disorder"
 
-`2011-2014`
-__BSc Maastricht Science Programme, Maastricht University (NL)__
-- Graduated with Honours.
+## Research Interests
+- History of Ecology
+- Values in Science 
+- Environmental History
+- Open Science and Research Ethics
 
-## Selected research experience
-`Sep 2019-Dec 2020`
-__Researcher, Master Thesis @ Descartes Centre for the History and Philosophy of the Sciences and the Humanities, Utrecht University (NL)__
-- Thesis: 'To be a molecular scientist. The negotiation of epistemic and social virtues in 1970s *Nature*’s marketplace.' <a href="http://dspace.library.uu.nl/handle/1874/400784/" target="_blank">http://dspace.library.uu.nl/handle/1874/400784</a>.
-- Prof. Dr. Bert Theunissen.
+## Selected Research Experience
+### Visiting Researcher
+- **Institution:** Institut d'Història de la Ciència (iHC), Universitat Autònoma de Barcelona
+- **Duration:** January - July 2024
+- **Description:** Archival work and interviews, presentation of preliminary results to iHC members
 
-`Sep 2016-Jun 2017`
-__Research Assistant @ Rare Diseases Research Centre, Fundación Jiménez Díaz, Universidad Autónoma de Madrid (ES)__
-- Study of a rodent model of rare epileptic disease (Lafora disease)
-- Personal tasks: animal experimentation (behavioural testing, electrode implantation surgery, brain extraction), molecular research (analysis of neuroimaging data and histology).
-- Dr. Marina Sánchez, Dr. MD José Serratosa.
-
-`Sep 2015-Jun 2016`
-__Researcher, Master Thesis @ Biological and Personality Psychology Laboratory, Department of Psychology, University of Freiburg (DE)__
-- Thesis: 'Limbic morphology and emotion in Borderline Personality Disorder.'
-- Prof. Dr. Gregor Domes, Dr. Bastian Schiller.
-
-## Editorial experience
-`2018-2022`
-__Co-founder, Creative Director @ Journal of Trial and Error__
--  Academic interdisciplinary publishing initiative providing a space for reports on and reflection upon productive failure in scientific practice. <a href="https://journal.trialanderror.org/" target="_blank">https://journal.trialanderror.org/</a>. Now a Diamond OA journal.
--  Personal tasks: developing working concepts and editorial policy, conference talks, institutional contact, and design coordination.
-
-## Awards and Fellowships
-`2022-ongoing`
-__'Aspirant' Doctoral Fellow of the Fonds National de la Recherche Scientifique (BE)__
-- BIODIVKNOVAL: 'Biodiversity and conservation science in Spain, 1970-present: knowledge and values in transition.'
-- Fully-funded 2-year Fellowship, extensible to an additional 2 years.
-
-`May 2022`
-__Vicent Peset Llorca Fellowship 2021-22, Inter-university Institute López Piñero for the History of Medicine and Science, Universitat de València (ES)__
-- 'Empirical ground: first round of archive-based enquiries for a historical project on the concept of biodiversidad in the Spanish conservation movement and the work of ICONA's 'ingenieros de montes' (1970-2000)'
+### Master Thesis Student
+- **Institution:** Descartes Centre for the History and Philosophy of the Sciences and the Humanities, Utrecht University
+- **Duration:** September 2019 - December 2020
+- **Thesis:** "To be a molecular scientist. The negotiation of epistemic and social virtues in 1970s *Nature*’s marketplace"
 
 ## Publications
-Devine S, Bautista Perpinyà M, Delrue V, Gaillard S, Jorna T, van der Meer M, Millet L, Pozzebon C, Visser J. 'Science Fails. Let’s Publish.' *Journal of Trial and Error*. <a href="https://doi.org/10.36850/ed1" target="_blank">https://doi.org/10.36850/ed1</a>.
-
-Burgos DF, Cussó L, Sánchez-Elexpuru G, Calle D, Perpinyà MB, Desco M, Serratosa JM, Sánchez MP. 'Structural and Functional Brain Abnormalities in Mouse Models of Lafora Disease.' *International Journal of Molecular Sciences*. 2020; 21(20):7771. <a href="https://doi.org/10.3390/ijms21207771" target="_blank">https://doi.org/10.3390/ijms21207771</a>.
-
+### Articles
+- Devine, S., **Bautista Perpinyà, M.**, Delrue, V., Gaillard, S., Jorna, T. F. K., Meer, M. van der, Millett, L., Pozzebon, C., & Visser, J. (2020). "Science Fails. Let’s Publish" *Journal of Trial & Error*, 1(1). <a href="https://doi.org/10.36850/ed1" target="_blank">https://doi.org/10.36850/ed1</a>
+- Burgos D.F., Cussó L., Sánchez-Elexpuru G., Calle D., **Bautista Perpinyà M.**, Desco M., Serratosa J.M., Sánchez M.P. (2020). "Structural and Functional Brain Abnormalities in Mouse Models of Lafora Disease." *International Journal of Molecular Sciences*. 2020; 21(20):7771. <a href="https://doi.org/10.3390/ijms21207771" target="_blank">https://doi.org/10.3390/ijms21207771</a>
 
 ### Book reviews
-- Bautista Perpinyà, M. & Pence, C. H. (2023): ‘David Sepkoski’s *Catastrophic Thinking*’, *BJPS Review of Books*. <a href="https://www.thebsps.org/reviewofbooks/perpinya-pence-on-sepkoski/" target="_blank">https://www.thebsps.org/reviewofbooks/perpinya-pence-on-sepkoski/</a>.
+- **Bautista Perpinyà, M.** & Pence, C.H. (2023) "David Sepkoski’s *Catastrophic Thinking*," *BJPS Review of Books*. <a href="https://www.thebsps.org/reviewofbooks/perpinya-pence-on-sepkoski/" target="_blank">https://www.thebsps.org/reviewofbooks/perpinya-pence-on-sepkoski/</a>
 
-## Selected talks and events
-`October 20-21, 2023`
-__Co-organiser, Integrating the History and Philosophy of Biodiversity. Narratives of Diversity, Extinction, Conflict and Value, Brussels__
-- Co-organised with Charles H. Pence. Hosted at the Museum of Natural Sciences.
+## Conferences
+- "Databases, draught, Catalan nationalism and European scientific environmentalism in the Spanish democracy (1988-2004)," 11th Conference of the European Society for the History of Science, 2024
+- "(Inter)nationalism in the making of the Ecological and Forest Inventory of Catalonia," 10th Gewina Woudschoten Conference, 2024
+- "Historia ambiental e Historia de la Ciencia: tensiones e hibridaciones interdisciplinares para una academia comprometida," IV Red Española de Historia Ambiental de España, 2024
+- "Reading, listening, and reading. A collective walk on how we read and listen to the environment, history, and each other," World Congress of Environmental History, 2024
+- "Scientific forestry in post-Franco Spain: making 'better' trees at a national network of experimental stations," 9th Gewina PhD Conference in History of Science and Humanities, 2023
+- "'Straight trunks' and 'original biocenosis': production and conservation aims of Spanish foresters during the last third of the twentieth century at the Instituto Nacional para la Conservación de la Naturaleza," 10th Conference of the European Society for the History of Science, 2022
+- "Descentralizando la historia de la biodiversidad: el conocimiento científico y su co-construcción con políticas nacionales ambientales en el ICONA," III Congreso Red Española de Historia Ambiental de España, 2022
+- "'If You Need a New Microscope – Why Purchase an Old One?' Scientific Advertisements in *Nature* and Their Role in the Printed Forum of the Laboratory Research Community," British Society for the History of Science, 2021
+
+## Invited Lectures
+- "¿Qué es una publicación científica? Reflexiones históricas, filosóficas, y críticas," Jornadas sobre la carrera investigadora, Sociedad Española de Bioquímica y Biología Molecular, 2021
+- "Ciencia Abierta: Globalidad y Localidad," IV Conveción Científica Internacional. Sistemas latinoamericanos de indexación: ética o estética, Universidad Técnica de Manabí, 2020
+- "The Journal of Trial and Error meets the Early-Career Swiss Society for Neuroscience," Second Swiss Early-career Researchers Symposium, University of Bern, 2020
+- "The Journal of Trial and Error. Publishing science in the making: trying and erring in the age of open science," [Event/Conference Name], University of Cambridge, 2019
+
+## Teaching Experience
+### Internship Coordinator
+- **Institution:** Journal of Trial and Error
+- **Years:** 2021
+- **Roles:** Design of internship goals and assessment of milestones for an intern of the Masters in History and Philosophy of Science (Utrecht University)
+
+### Workshop Instructor
+- **Institution:** Life Sciences Faculty, Utrecht University
+- **Years:** 2021-2022
+- **Roles:** Design and facilitation of workshops: 'Community Research Ethics and Publication Ethics' and ‘Publication Possibilities, Scientific Outreach and Open Science’
+- **Audience:** Introductory days for 500+ new master students
+
+### Student supervisor
+- **Institution:** Biological & Personality Psychology Laboratory, Universität Freiburg
+- **Years:** 2016
+- **Roles:** Daily management of several undergraduates. Teaching a neuroimaging sectioning technique to the students
+
+## Awards and Honours
+- 'Aspirant' Doctoral Fellow of the Belgian National Science Fund (FNRS). 4-year fully-funded scholarship
+- Fellow, Collective writing residency 'Earth Sciences: History, Science and Society,' Faberllull Olot, 2024
+- Fully-funded participant, International summer school 'Interdisciplinary Perspectives on Climate and Biodiversity Crises: Historical evolutions, current realities, and future pathways for socio-ecological transformation,' École Normale Supérieure and Centre Marc Bloch, 2023
+- Vicent Peset Llorca Fellowship 2021-22, Inter-university Institute López Piñero for the History of Medicine and Science, Universitat de València
+- "What does it mean to die as a senior? The evolving narrative of death in Spain during the coronavirus pandemic," (2020) 'Coronavirus crisis speed research', Freudenthal Institute, Utrecht University
+
+## Editorial Work
+### Co-founder, *Journal of Trial and Error*
+- **Years:** 2018-2022
+- **Objectives:** Initiative born from a productive mixture between HPS literature and the Open Science movement. Interdisciplinary journal providing an avenue for peer-reviewed articles of and about failure in science. Currently a Diamond Open Access journal. <a href="https://journal.trialanderror.org/" target="_blank">https://journal.trialanderror.org/</a> 
+- **Roles:** developing working concepts and editorial policy, giving conference talks, contacting institutions, and coordinating design
+
+### Editorial Assistant, ARTECHNE ERC Project, Utrecht University
+- **Years:** 2021
+- **Roles:** Edition and management of two edited volumes: *Histories of Conservation and Art History in Modern Europe* (Routledge) and *The Making of Technique in the Art* (Brepols)
+
+### Assistant Managing Editor, *Journal for the History of Knowledge*
+- **Years:** 2020
+- **Roles:** Manuscript anonymisation, contact with reviewers, coordination with editors-in-chief
+
+## Professional Activities
+### Co-Organizer, 10th PhD Conference in History of Science, Medicine, and Humanities in Belgium and the Netherlands (April 2025), Beyond Switching Plastic Straws
+- **Institution:** Belgian-Dutch Society for the History of Science and University (Gewina)
+- Co-organised with Marieke Gelderblom (Utrecht University) and Martijn van der Meer (Erasmus University Rotterdam
+- <a href="https://www.gewina.nl/cfp-beyond-switching-plastic-straws/" target="_blank">https://www.gewina.nl/cfp-beyond-switching-plastic-straws/</a>
+
+### Co-Organizer, Disciplinary crossroads: history of science and environmental history, 2024
+- **Institution:** Institut d’Història de la Ciència, Universitat Autònoma de Barcelona
+- Co-organised with Carolina Granado (iHC-UAB) and Hèctor Isern (iHC-UAB)
+
+### Co-Organizer, Integrating the History and Philosophy of Biodiversity. Narratives of Diversity, Extinction, Conflict and Value, 2023
+- **Institution:** UCLouvain and the Royal Belgian Institute of Natural Sciences
+- Co-organised with Charles H. Pence
 - <a href="https://pencelab.be/events/biodiversity-2023/" target="_blank">https://pencelab.be/events/biodiversity-2023/</a>
-
-`April 20-21, 2023`
-__Speaker, 9th PhD Conference in History of Science and Humanities, Soeterbeeck Abbey (NL)__
-- “Scientific forestry in post-Franco Spain: making “better” trees at a national network of experimental stations.”
-
-`September 9, 2022`
-__Speaker, 10th Conference of the European Society for the History of Science, September 7-10__
-- Talk: 'Straight trunks” and “original biocenosis”: production and conservation aims of Spanish foresters during the last third of the twentieth century at the Instituto Nacional para la Conservación de la Naturaleza.'
-- Session: 'Sustainability and Biodiversity.'
-
-`May 13, 2022`
-__Speaker, III Congreso de la Red  España de Historia Ambiental de España, May 11-13__
-- Talk: 'Descentralizando la historia de la biodiversidad: el conocimiento científico y su co-construcción con políticas nacionales ambientales en el ICONA.'
-
-`Jul 13, 2021`
-__Speaker, British Society for the History of Science__
-- Lightning Session: 'Patrons, Publics, and Profiteers: Selling Science in the Nineteenth and Twentieth Centuries.'
-- Talk: ‘"If You Need a New Microscope – Why Purchase an Old One?" Scientific Advertisements in *Nature* and Their Role in the Printed Forum of the Laboratory Research Community.’
-
-`Oct 22, 2020`
-__Invited speaker, IV Conveción Científica Internacional (Universidad Técnica de Manabí)__
-- Roundtable: ‘Sistemas latinoamericanos de indexación: ética o estética.’
-- Talk: 'Ciencia Abierta: Globalidad y Localidad.'
-
-`Feb 21, 2020`
-__Invited speaker and panellist, University of Bern__
-- Talk: 'The Journal of Trial and Error meets the Early-Career Swiss Society for Neuroscience.'
-
-`Jul 12, 2019`
-__Invited speaker, Laboratory of Molecular Biology, Cambridge University__
-- Talk: 'The Journal of Trial and Error. Publishing science in the making: trying and erring in the age of open science.'
-
-## Teaching / Mentoring
-`Mar-Sep 2021`
-__Internship Coordinator, Journal of Trial and Error & Utrecht University (NL)__
-- Support of 1 MSc HPS student from Utrecht University as an intern at the journal.
-- Design of internship goals and assessment of milestones.
-
-`Academic years 2020-21, 2021-22`
-__Workshop speaker, Utrecht University (NL)__
-- 'Community Research Ethics and Publication Ethics', ‘Publication Possibilities, Scientific Outreach and Open Science.’  	
-- Life Science Faculty Introductory days for 500+ new master students.
-
-`2016`
-__Student supervisor, Biological & Personality Psychology Laboratory, Universität Freiburg (DE)__
-- Daily management of several undergraduates. Teaching a neuroimaging sectioning manual technique to the students.
 
 
 ## Languages
-Spanish: Native, Catalan: Native, English: Full Professional, French: Intermediate.
-
-
-
-## ---
-<br/><br/><br/><br/><br/><br/>
-
-<h2 id="last-update">Last Update</h2>
-
-<div id="visible_inscreen">
-January 2023
-</div>
+- **Catalan:** Native
+- **Spanish:** Native
+- **English:** Full Professional
+- **French:** Intermediate

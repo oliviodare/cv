@@ -1,0 +1,51 @@
+body {
+    font-family: Times New Roman, serif;
+    line-height: 1.4;
+    color: #000;
+    margin: 0;
+    padding-bottom: 1in; /* Add padding to the bottom to avoid overlap */
+}
+
+h2, h3 {
+    line-height: 1.1;
+    margin-bottom: -0.2em;
+}
+
+.container {
+    width: 100%;
+    margin: 0;
+    padding: 0;
+}
+
+header, footer, nav, .no-print {
+    display: none;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    page-break-after: avoid;
+}
+
+p, blockquote, pre, table, figure {
+    page-break-inside: avoid;
+}
+
+@page {
+    margin: 0.9in;
+}
+
+
+/* Button print styling */
+#button {
+    display: none;
+}
+
+/* Hyperlink styling */
+a {
+    color: #000; /* Black color for hyperlinks */
+    text-decoration: underline; /* Remove underline if desired */
+}
+
+a:hover, a:focus, a:visited {
+    color: #000; /* Ensure hover and focus states are also black */
+    text-decoration: none; /* Optional: Add underline on hover/focus */
+}

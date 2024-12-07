@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>BautistaPerpinya-CV</title>
+    <link rel="stylesheet" href="{{ '/media/screen.css' | relative_url }}" media="screen">
+    <link rel="stylesheet" href="{{ '/media/print.css' | relative_url }}" media="print">
+</head>
+<body>
+    <div class="container">
+        <main>
+            {{ content }}
+        </main>
+        <div class="page-header" style="text-align: center">
+            <br/>
+            <button id="button" type="button" onClick="window.print()">
+              Printer-friendly PDF
+            </button>
+          </div>
+        <footer>
+            <p>{{ site.time | date: '%B %Y' }} {{ site.title }}</p>
+        </footer>
+    </div>
+</body>
+</html>
+            
