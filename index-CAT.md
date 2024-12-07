@@ -61,7 +61,7 @@ title: "Curriculum Vitae"
 - "Reading, listening, and reading. A collective walk on how we read and listen to the environment, history, and each other," World Congress of Environmental History, Oulu (Finlandia), 2024
 - "Scientific forestry in post-Franco Spain: making 'better' trees at a national network of experimental stations," 9th Gewina PhD Conference in History of Science and Humanities, Soeterbeek (Països Baixos), 2023
 - "'Straight trunks' and 'original biocenosis': production and conservation aims of Spanish foresters during the last third of the twentieth century at the Instituto Nacional para la Conservación de la Naturaleza," 10th Conference of the European Society for the History of Science, Brusel·les (Bèlgica), 2022
-- "Descentralizando la historia de la biodiversidad: el conocimiento científico y su co-construcción con políticas nacionales ambientales en el ICONA," IV Congreso de la Red Española de Historia Ambiental-RUED(H)A, Granada, 2022
+- "Descentralizando la historia de la biodiversidad: el conocimiento científico y su co-construcción con políticas nacionales ambientales en el ICONA," III Congreso de la Red Española de Historia Ambiental-RUED(H)A, Granada, 2022
 - "'If You Need a New Microscope – Why Purchase an Old One?' Scientific Advertisements in *Nature* and Their Role in the Printed Forum of the Laboratory Research Community," British Society for the History of Science, 2021
 
 ## Conferències Convidades
