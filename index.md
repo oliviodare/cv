@@ -8,10 +8,12 @@ title: "Curriculum Vitae"
   <tr>
     <td>max.bautista@uclouvain.be</td>
     <td>+32.497.22.70.27</td>
-    <td><a href="https://orcid.org/0000-0002-5202-6961" target="_blank">0000-0002-5202-6961 (ORCID)</a></td>
+    <td><a id="cy-effective-orcid-url" class="underline" href="https://orcid.org/0000-0002-5202-6961" target="orcid.widget" rel="me noopener noreferrer" style="vertical-align: top"> <img src="https://orcid.org/sites/default/files/images/orcid_16x16.png" style="width: 1em; margin-inline-start: 0.5em" alt="ORCID iD icon"/> 0000-0002-5202-6961 </a></td>
     <td><a href="https://oliviodare.com/" target="_blank">oliviodare.com</a></td>
   </tr>
 </table>
+
+
 
 ## Education
 ### Ph.D. in Philosophy

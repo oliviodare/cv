@@ -49,3 +49,16 @@ a:hover, a:focus, a:visited {
     color: #000; /* Ensure hover and focus states are also black */
     text-decoration: none; /* Optional: Add underline on hover/focus */
 }
+
+/* Sytle Table and Make Responive*/
+table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-bottom: 20px;
+    padding-left: 20px; /* Match this value with the container's padding */
+}
+
+td {
+    padding: 0px;
+    vertical-align: top;
+}
