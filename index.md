@@ -13,8 +13,6 @@ title: "Curriculum Vitae"
   </tr>
 </table>
 
-
-
 ## Education
 ### Ph.D. in Philosophy
 - **Institution:** Université catholique de Louvain (Belgium)
