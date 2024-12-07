@@ -54,21 +54,21 @@ title: "Curriculum Vitae"
 - **Bautista Perpinyà, M.** & Pence, C.H. (2023) "David Sepkoski’s *Catastrophic Thinking*," *BJPS Review of Books*. <a href="https://www.thebsps.org/reviewofbooks/perpinya-pence-on-sepkoski/" target="_blank">https://www.thebsps.org/reviewofbooks/perpinya-pence-on-sepkoski/</a>
 
 ## Conferències
-- "Databases, draught, Catalan nationalism and European scientific environmentalism in the Spanish democracy (1988-2004)," 11th Conference of the European Society for the History of Science, Barcelona 2024
+- "Databases, draught, Catalan nationalism and European scientific environmentalism in the Spanish democracy (1988-2004)," 11th Conference of the European Society for the History of Science, Barcelona, 2024
 - "(Inter)nationalism in the making of the Ecological and Forest Inventory of Catalonia," 10th Gewina Woudschoten Conference, Utrecht (Països Baixos) 2024
-- "Historia ambiental e Historia de la Ciencia: tensiones e hibridaciones interdisciplinares para una academia comprometida," IV Red Española de Historia Ambiental de España, Granada 2024
-- "Reading, listening, and reading. A collective walk on how we read and listen to the environment, history, and each other," World Congress of Environmental History, Oulu (Finlandia) 2024
-- "Scientific forestry in post-Franco Spain: making 'better' trees at a national network of experimental stations," 9th Gewina PhD Conference in History of Science and Humanities, Soeterbeek (Països Baixos) 2023
-- "'Straight trunks' and 'original biocenosis': production and conservation aims of Spanish foresters during the last third of the twentieth century at the Instituto Nacional para la Conservación de la Naturaleza," 10th Conference of the European Society for the History of Science, Brusel·les (Bèlgica) 2022
-- "Descentralizando la historia de la biodiversidad: el conocimiento científico y su co-construcción con políticas nacionales ambientales en el ICONA," III Congreso Red Española de Historia Ambiental de España, Granada 2022
+- "Historia ambiental e Historia de la Ciencia: tensiones e hibridaciones interdisciplinares para una academia comprometida," IV Red Española de Historia Ambiental de España, Granada, 2024
+- "Reading, listening, and reading. A collective walk on how we read and listen to the environment, history, and each other," World Congress of Environmental History, Oulu (Finlandia), 2024
+- "Scientific forestry in post-Franco Spain: making 'better' trees at a national network of experimental stations," 9th Gewina PhD Conference in History of Science and Humanities, Soeterbeek (Països Baixos), 2023
+- "'Straight trunks' and 'original biocenosis': production and conservation aims of Spanish foresters during the last third of the twentieth century at the Instituto Nacional para la Conservación de la Naturaleza," 10th Conference of the European Society for the History of Science, Brusel·les (Bèlgica), 2022
+- "Descentralizando la historia de la biodiversidad: el conocimiento científico y su co-construcción con políticas nacionales ambientales en el ICONA," III Congreso Red Española de Historia Ambiental de España, Granada, 2022
 - "'If You Need a New Microscope – Why Purchase an Old One?' Scientific Advertisements in *Nature* and Their Role in the Printed Forum of the Laboratory Research Community," British Society for the History of Science, 2021
 
 ## Conferències Convidades
-- "Ciència i Acció: Una taula rodona sobre la història i el futur de la relació entre recerca i gestió al Parc Natural de la Zona Volcànica de la Garrotxa," Parc Natural de la Zona Volcànica de la Garrotxa, 2024
-- "¿Qué es una publicación científica? Reflexiones históricas, filosóficas, y críticas," Jornadas sobre la carrera investigadora, Sociedad Española de Bioquímica y Biología Molecular, Madrid 2021
-- "Ciencia Abierta: Globalidad y Localidad," IV Conveción Científica Internacional. Sistemas latinoamericanos de indexación: ética o estética, Universidad Técnica de Manabí, Manabí (Ecuador) 2020
-- "The Journal of Trial and Error meets the Early-Career Swiss Society for Neuroscience," Second Swiss Early-career Researchers Symposium, University of Bern, Berna (Suïssa) 2020
-- "The Journal of Trial and Error. Publishing science in the making: trying and erring in the age of open science," Annual Graduate Student Symposium, University of Cambridge, Cambdrige (Regne Unit) 2019
+- "Ciència i Acció: Una taula rodona sobre la història i el futur de la relació entre recerca i gestió al Parc Natural de la Zona Volcànica de la Garrotxa," Parc Natural de la Zona Volcànica de la Garrotxa, La Garrotxa, 2024
+- "¿Qué es una publicación científica? Reflexiones históricas, filosóficas, y críticas," Jornadas sobre la carrera investigadora, Sociedad Española de Bioquímica y Biología Molecular, Madrid, 2021
+- "Ciencia Abierta: Globalidad y Localidad," IV Conveción Científica Internacional. Sistemas latinoamericanos de indexación: ética o estética, Universidad Técnica de Manabí, Manabí (Ecuador), 2020
+- "The Journal of Trial and Error meets the Early-Career Swiss Society for Neuroscience," Second Swiss Early-career Researchers Symposium, University of Bern, Berna (Suïssa), 2020
+- "The Journal of Trial and Error. Publishing science in the making: trying and erring in the age of open science," Annual Graduate Student Symposium, University of Cambridge, Cambdrige (Regne Unit), 2019
 
 ## Experiència Docent
 ### Coordinador de Pràctiques
