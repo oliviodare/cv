@@ -4,13 +4,14 @@ title: "Curriculum Vitae"
 ---
 
 # _Curriculum vitae_, Max Bautista-Perpinyà
-
-## Informació Personal
-- **Nom:** Max Bautista-Perpinyà
-- **Correu electrònic:** max.bautista@uclouvain.be
-- **Telèfon:** +32 497 22 70 27, +34 648 254 704
-- **ORCID:** <a href="https://orcid.org/0000-0002-5202-6961" target="_blank">0000-0002-5202-6961</a>
-- **Lloc web personal:** <a href="https://oliviodare.com/" target="_blank">oliviodare.com</a>
+<table>
+  <tr>
+    <td>max.bautista@uclouvain.be</td>
+    <td>+32.497.22.70.27</td>
+    <td><a href="https://orcid.org/0000-0002-5202-6961" target="_blank">0000-0002-5202-6961 (ORCID)</a></td>
+    <td><a href="https://oliviodare.com/" target="_blank">oliviodare.com</a></td>
+  </tr>
+</table>
 
 ## Educació
 ### Doctorat en Filosofia

@@ -16,6 +16,7 @@ h2, h3 {
     width: 65%;
     margin: auto;
     overflow: hidden;
+    padding-left: 20px; /* Adjust this value as needed */
 }
 
 main {
@@ -37,10 +38,12 @@ footer {
     color: #fff;
 }
 
-#showcase h1 {
-    margin-top: 100px;
-    font-size: 55px;
-    margin-bottom: 10px;
+h1 {
+    margin-top: 80px;
+    font-size: 40px;
+    margin-bottom: 5px;
+    padding-left: 0px; /* Match this value with the container's padding */
+
 }
 
 #showcase p {
@@ -50,12 +53,12 @@ footer {
 /* Hyperlink styling */
 a {
     color: #000; /* Black color for hyperlinks */
-    text-decoration: underline; /* Remove underline if desired */
+    text-decoration: none; /* Remove underline if desired */
 }
 
 a:hover, a:focus {
     color: #000; /* Ensure hover and focus states are also black */
-    text-decoration: none; /* Optional: Add underline on hover/focus */
+    text-decoration: underline; /* Optional: Add underline on hover/focus */
 }
 
 /* Print button styling */
@@ -83,6 +86,28 @@ a:hover, a:focus {
     box-shadow: inset 0px 0.8px 0px -0.25px rgba(255, 255, 255, 0.2), 0px 0.5px 1px rgba(0, 0, 0, 0.1), 0px 0px 0px 3.5px rgba(58, 108, 217, 0.5);
     outline: 0;
 }
+
+/* Sytle Table and Make Responive*/
+table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-bottom: 20px;
+    padding-left: 20px; /* Match this value with the container's padding */
+}
+
+td {
+    padding: 0px;
+    vertical-align: top;
+}
+
+@media (max-width: 768px) {
+    table, td {
+        display: block;
+        width: 100%;
+        padding: 0px;
+    }
+}
+
 
 /* Media Queries for Mobile Optimization */
 @media (max-width: 768px) {
