@@ -88,7 +88,7 @@ title: "Curriculum Vitae"
 - **Anys:** 2016
 - **Rols:** Gestió diària de diversos estudiants de grau. Ensenyament d'una tècnica de seccionament de neuroimatge
 
-## Treballs Editorials
+## Treball Editorials
 ### Cofundador, *Journal of Trial and Error*
 - **Anys:** 2018-2022
 - **Objectius:** Initiative born from a productive mixture between HPS literature and the Open Science movement. Interdisciplinary journal providing an avenue for peer-reviewed articles of and about failure in science. Currently a Diamond Open Access journal. https://journal.trialanderror.org/. <a href="https://journal.trialanderror.org/" target="_blank">https://journal.trialanderror.org/</a>
