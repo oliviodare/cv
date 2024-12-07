@@ -34,7 +34,7 @@ title: "Curriculum Vitae"
 - Història Ambiental
 - Ciència Oberta i Ètica de la Recerca
 
-## Experiència de Recerca Seleccionada
+## Experiència Seleccionada de Recerca
 ### Investigador Visitant
 - **Institució:** Institut d'Història de la Ciència (iHC), Universitat Autònoma de Barcelona
 - **Durada:** Gener - Juliol 2024
