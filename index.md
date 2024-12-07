@@ -3,7 +3,7 @@ layout: default
 title: "Curriculum Vitae"
 ---
 
-# _Curriculum vitae_, Max Bautista-Perpinyà
+# Max Bautista-Perpinyà, *Curriculum vitae*
 <table>
   <tr>
     <td>max.bautista@uclouvain.be</td>
