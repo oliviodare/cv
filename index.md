@@ -14,17 +14,17 @@ title: "Curriculum Vitae"
 
 ## Education
 ### Ph.D. in Philosophy
-- **Institution:** Université catholique de Louvain
+- **Institution:** Université catholique de Louvain (Belgium)
 - **Projected graduation:** 2026
 - **Thesis:** "The success and deradicalisation of ecology. Forests, environmentalism, and values in the making of Spanish contemporary democracy (1982-2007)"
 
 ### M.Sc. in History and Philosophy of Science, Cum Laude
-- **Institution:** Utrecht University
+- **Institution:** Utrecht University (the Netherlands)
 - **Year:** 2020
 - **Thesis:** "To be a molecular scientist. The negotiation of epistemic and social virtues in 1970s *Nature*’s marketplace"
 
 ### M.Sc. in Neuroscience, High Honours
-- **Institution:** Université de Strasbourg, Universität Freiburg
+- **Institution:** Université de Strasbourg (France)
 - **Year:** 2016
 - **Thesis:** "Limbic morphology and emotion in Borderline Personality Disorder"
 
@@ -36,7 +36,7 @@ title: "Curriculum Vitae"
 
 ## Selected Research Experience
 ### Visiting Researcher
-- **Institution:** Institut d'Història de la Ciència (iHC), Universitat Autònoma de Barcelona
+- **Institution:** Institut d'Història de la Ciència (iHC), Universitat Autònoma de Barcelona (Spain)
 - **Duration:** January - July 2024
 - **Description:** Archival work and interviews, presentation of preliminary results to the iHC community
 
@@ -54,21 +54,21 @@ title: "Curriculum Vitae"
 - **Bautista Perpinyà, M.** & Pence, C.H. (2023) "David Sepkoski’s *Catastrophic Thinking*," *BJPS Review of Books*. <a href="https://www.thebsps.org/reviewofbooks/perpinya-pence-on-sepkoski/" target="_blank">https://www.thebsps.org/reviewofbooks/perpinya-pence-on-sepkoski/</a>
 
 ## Conferences
-- "Databases, draught, Catalan nationalism and European scientific environmentalism in the Spanish democracy (1988-2004)," 11th Conference of the European Society for the History of Science, 2024
-- "(Inter)nationalism in the making of the Ecological and Forest Inventory of Catalonia," 10th Gewina Woudschoten Conference, 2024
-- "Historia ambiental e Historia de la Ciencia: tensiones e hibridaciones interdisciplinares para una academia comprometida," IV Red Española de Historia Ambiental de España, 2024
-- "Reading, listening, and reading. A collective walk on how we read and listen to the environment, history, and each other," World Congress of Environmental History, 2024
-- "Scientific forestry in post-Franco Spain: making 'better' trees at a national network of experimental stations," 9th Gewina PhD Conference in History of Science and Humanities, 2023
-- "'Straight trunks' and 'original biocenosis': production and conservation aims of Spanish foresters during the last third of the twentieth century at the Instituto Nacional para la Conservación de la Naturaleza," 10th Conference of the European Society for the History of Science, 2022
-- "Descentralizando la historia de la biodiversidad: el conocimiento científico y su co-construcción con políticas nacionales ambientales en el ICONA," III Congreso Red Española de Historia Ambiental de España, 2022
+- "Databases, draught, Catalan nationalism and European scientific environmentalism in the Spanish democracy (1988-2004)," 11th Conference of the European Society for the History of Science, Barcelona (Spain) 2024
+- "(Inter)nationalism in the making of the Ecological and Forest Inventory of Catalonia," 10th Gewina Woudschoten Conference, Utrecht (the Netherlands) 2024
+- "Historia ambiental e Historia de la Ciencia: tensiones e hibridaciones interdisciplinares para una academia comprometida," IV Red Española de Historia Ambiental de España, Granada (Spain) 2024
+- "Reading, listening, and reading. A collective walk on how we read and listen to the environment, history, and each other," World Congress of Environmental History, Oulu (Finland) 2024
+- "Scientific forestry in post-Franco Spain: making 'better' trees at a national network of experimental stations," 9th Gewina PhD Conference in History of Science and Humanities, Soeterbeek (the Netherlands)2023
+- "'Straight trunks' and 'original biocenosis': production and conservation aims of Spanish foresters during the last third of the twentieth century at the Instituto Nacional para la Conservación de la Naturaleza," 10th Conference of the European Society for the History of Science, Brussels (Belgium) 2022
+- "Descentralizando la historia de la biodiversidad: el conocimiento científico y su co-construcción con políticas nacionales ambientales en el ICONA," III Congreso Red Española de Historia Ambiental de España, Granada (Spain) 2022
 - "'If You Need a New Microscope – Why Purchase an Old One?' Scientific Advertisements in *Nature* and Their Role in the Printed Forum of the Laboratory Research Community," British Society for the History of Science, 2021
 
 ## Invited Lectures
-- “Science and Action: Roundtable on the history and future of the relationship between research and management at La Garrotxa Volcanic Zone Natural Park," La Garrotxa Volcanic Zone Natural Park, 2024
-- "¿Qué es una publicación científica? Reflexiones históricas, filosóficas, y críticas," Jornadas sobre la carrera investigadora, Sociedad Española de Bioquímica y Biología Molecular, 2021
-- "Ciencia Abierta: Globalidad y Localidad," IV Conveción Científica Internacional. Sistemas latinoamericanos de indexación: ética o estética, Universidad Técnica de Manabí, 2020
-- "The Journal of Trial and Error meets the Early-Career Swiss Society for Neuroscience," Second Swiss Early-career Researchers Symposium, University of Bern, 2020
-- "The Journal of Trial and Error. Publishing science in the making: trying and erring in the age of open science," [Event/Conference Name], University of Cambridge, 2019
+- “Science and Action: Roundtable on the history and future of the relationship between research and management at La Garrotxa Volcanic Zone Natural Park," La Garrotxa Volcanic Zone Natural Park, Girona (Spain) 2024
+- "¿Qué es una publicación científica? Reflexiones históricas, filosóficas, y críticas," Jornadas sobre la carrera investigadora, Sociedad Española de Bioquímica y Biología Molecular, Madrid (Spain) 2021
+- "Ciencia Abierta: Globalidad y Localidad," IV Conveción Científica Internacional. Sistemas latinoamericanos de indexación: ética o estética, Universidad Técnica de Manabí, Manabí (Ecuador) 2020
+- "The Journal of Trial and Error meets the Early-Career Swiss Society for Neuroscience," Second Swiss Early-career Researchers Symposium, University of Bern, Bern (Switzerland) 2020
+- "The Journal of Trial and Error. Publishing science in the making: trying and erring in the age of open science," Annual Graduate Student Symposium, University of Cambridge, Cambridge (United Kingdom) 2019
 
 ## Teaching Experience
 ### Internship Coordinator
@@ -86,13 +86,6 @@ title: "Curriculum Vitae"
 - **Institution:** Biological & Personality Psychology Laboratory, Universität Freiburg
 - **Years:** 2016
 - **Roles:** Daily management of several undergraduates. Teaching a neuroimaging sectioning technique
-
-## Awards and Honours
-- 'Aspirant' Doctoral Fellow of the Belgian National Science Fund (FNRS). 4-year fully-funded scholarship
-- Fellow, Collective writing residency 'Earth Sciences: History, Science and Society,' Faberllull Olot, 2024
-- Fully-funded participant, International summer school 'Interdisciplinary Perspectives on Climate and Biodiversity Crises: Historical evolutions, current realities, and future pathways for socio-ecological transformation,' École Normale Supérieure and Centre Marc Bloch, 2023
-- Vicent Peset Llorca Fellowship 2021-22, Inter-university Institute López Piñero for the History of Medicine and Science, Universitat de València
-- "What does it mean to die as a senior? The evolving narrative of death in Spain during the coronavirus pandemic," (2020) 'Coronavirus crisis speed research', Freudenthal Institute, Utrecht University
 
 ## Editorial Work
 ### Co-founder, *Journal of Trial and Error*
@@ -123,6 +116,12 @@ title: "Curriculum Vitae"
 - Co-organised with Charles H. Pence
 - <a href="https://pencelab.be/events/biodiversity-2023/" target="_blank">https://pencelab.be/events/biodiversity-2023/</a>
 
+## Awards and Honours
+- 'Aspirant' Doctoral Fellow of the Belgian National Science Fund (FNRS). 4-year fully-funded scholarship
+- Fellow, Collective writing residency 'Earth Sciences: History, Science and Society,' Faberllull Olot, 2024
+- Fully-funded participant, International summer school 'Interdisciplinary Perspectives on Climate and Biodiversity Crises: Historical evolutions, current realities, and future pathways for socio-ecological transformation,' École Normale Supérieure and Centre Marc Bloch, 2023
+- Vicent Peset Llorca Fellowship 2021-22, Inter-university Institute López Piñero for the History of Medicine and Science, Universitat de València
+- "What does it mean to die as a senior? The evolving narrative of death in Spain during the coronavirus pandemic," (2020) 'Coronavirus crisis speed research', Freudenthal Institute, Utrecht University
 
 ## Languages
 - **Catalan:** Native
