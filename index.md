@@ -8,7 +8,7 @@ title: "Curriculum Vitae"
 ## Personal Information
 - **Name:** Max Bautista-Perpinyà
 - **Email:** max.bautista@uclouvain.be
-- **Phone:** +32 (0) 497 22 70 27
+- **Phone:** +32 497 22 70 27, +34 648 254 704
 - **ORCID:** <a href="https://orcid.org/0000-0002-5202-6961" target="_blank">0000-0002-5202-6961</a>
 - **Personal site:** <a href="https://oliviodare.com/" target="_blank">oliviodare.com</a>
 
@@ -38,7 +38,7 @@ title: "Curriculum Vitae"
 ### Visiting Researcher
 - **Institution:** Institut d'Història de la Ciència (iHC), Universitat Autònoma de Barcelona
 - **Duration:** January - July 2024
-- **Description:** Archival work and interviews, presentation of preliminary results to iHC members
+- **Description:** Archival work and interviews, presentation of preliminary results to the iHC community
 
 ### Master Thesis Student
 - **Institution:** Descartes Centre for the History and Philosophy of the Sciences and the Humanities, Utrecht University
@@ -64,6 +64,7 @@ title: "Curriculum Vitae"
 - "'If You Need a New Microscope – Why Purchase an Old One?' Scientific Advertisements in *Nature* and Their Role in the Printed Forum of the Laboratory Research Community," British Society for the History of Science, 2021
 
 ## Invited Lectures
+- “Science and Action: Roundtable on the history and future of the relationship between research and management at La Garrotxa Volcanic Zone Natural Park," La Garrotxa Volcanic Zone Natural Park, 2024
 - "¿Qué es una publicación científica? Reflexiones históricas, filosóficas, y críticas," Jornadas sobre la carrera investigadora, Sociedad Española de Bioquímica y Biología Molecular, 2021
 - "Ciencia Abierta: Globalidad y Localidad," IV Conveción Científica Internacional. Sistemas latinoamericanos de indexación: ética o estética, Universidad Técnica de Manabí, 2020
 - "The Journal of Trial and Error meets the Early-Career Swiss Society for Neuroscience," Second Swiss Early-career Researchers Symposium, University of Bern, 2020
@@ -84,7 +85,7 @@ title: "Curriculum Vitae"
 ### Student supervisor
 - **Institution:** Biological & Personality Psychology Laboratory, Universität Freiburg
 - **Years:** 2016
-- **Roles:** Daily management of several undergraduates. Teaching a neuroimaging sectioning technique to the students
+- **Roles:** Daily management of several undergraduates. Teaching a neuroimaging sectioning technique
 
 ## Awards and Honours
 - 'Aspirant' Doctoral Fellow of the Belgian National Science Fund (FNRS). 4-year fully-funded scholarship
