@@ -7,12 +7,10 @@ body {
     color: #333;
 }
 
-
-h2, h3  {
+h2, h3 {
     line-height: 1.4;
     margin-bottom: -0.7em;
 }
-
 
 .container {
     width: 65%;
@@ -31,7 +29,6 @@ footer {
     background-color: #f4f4f4;
     color: #333;
 }
-
 
 #showcase {
     min-height: 400px;
@@ -76,16 +73,60 @@ a:hover, a:focus {
     user-select: none;
     -webkit-user-select: none;
     touch-action: manipulation;
-      position: fixed;
-  z-index: 1;
-  bottom: 15px;
-      right:19px;
-  }
+    position: fixed;
+    z-index: 1;
+    bottom: 15px;
+    right: 19px;
+}
 
 #button:focus {
     box-shadow: inset 0px 0.8px 0px -0.25px rgba(255, 255, 255, 0.2), 0px 0.5px 1px rgba(0, 0, 0, 0.1), 0px 0px 0px 3.5px rgba(58, 108, 217, 0.5);
     outline: 0;
-  }
+}
 
+/* Media Queries for Mobile Optimization */
+@media (max-width: 768px) {
+    .container {
+        width: 90%;
+        padding: 0 20px; /* Add padding to the sides */
+        box-sizing: border-box; /* Ensure padding is included in the width */
+    }
 
+    #showcase h1 {
+        font-size: 35px;
+        margin-top: 50px;
+    }
+
+    #showcase p {
+        font-size: 16px;
+    }
+
+    #button {
+        padding: 4px 10px;
+        bottom: 10px;
+        right: 10px;
+    }
+}
+
+@media (max-width: 480px) {
+    .container {
+        width: 100%;
+        padding: 0 25px; /* Add padding to the sides */
+        box-sizing: border-box; /* Ensure padding is included in the width */
+    }
+
+    #showcase h1 {
+        font-size: 28px;
+        margin-top: 30px;
+    }
+
+    #showcase p {
+        font-size: 14px;
+    }
+
+    #button {
+        padding: 3px 8px;
+        bottom: 8px;
+        right: 8px;
+    }
 }
