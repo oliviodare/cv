@@ -129,4 +129,4 @@ title: "Curriculum Vitae"
 - **Català:** Nadiu
 - **Espanyol:** Nadiu
 - **Anglès:** Professional
-- **Francès:** Intermedi
+- **Francès:** Intermedi avançat
