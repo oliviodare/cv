@@ -97,8 +97,14 @@ table {
 
 td {
     padding: 0px;
-    vertical-align: top;
+    vertical-align: middle; /* Align text vertically with icons */
+    align-items: center; /* Center align items vertically */
 }
+
+td img {
+    margin-right: 0.5em; /* Adjust spacing between icon and text */}
+
+
 
 @media (max-width: 768px) {
     table, td {

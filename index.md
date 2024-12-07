@@ -3,13 +3,13 @@ layout: default
 title: "Curriculum Vitae"
 ---
 
-# Max Bautista-Perpinyà, *Curriculum vitae*
+# Max Bautista-Perpinyà
 <table>
   <tr>
-    <td>max.bautista@uclouvain.be</td>
-    <td>+32.497.22.70.27</td>
-    <td><a id="cy-effective-orcid-url" class="underline" href="https://orcid.org/0000-0002-5202-6961" target="orcid.widget" rel="me noopener noreferrer" style="vertical-align: top"> <img src="https://orcid.org/sites/default/files/images/orcid_16x16.png" style="width: 1em; margin-inline-start: 0.5em" alt="ORCID iD icon"/> 0000-0002-5202-6961 </a></td>
-    <td><a href="https://oliviodare.com/" target="_blank">oliviodare.com</a></td>
+    <td><a href="mailto:max.bautista@uclouvain.be"><img src="media/email.png" style="width: 1em; margin-inline-start: 0.5em" alt="email icon"/>max.bautista@uclouvain.be</a></td>
+    <td><a href="tel:+32497227027"><img src="media/phone-call.png" style="width: 1em; margin-inline-start: 0.5em" alt="telephone icon"/>+32.497.22.70.27</a></td>
+    <td><a id="cy-effective-orcid-url" class="underline" href="https://orcid.org/0000-0002-5202-6961" target="orcid.widget" rel="me noopener noreferrer" style="vertical-align: top"> <img src="https://orcid.org/sites/default/files/images/orcid_16x16.png" style="width: 1em; margin-inline-start: 0.5em" alt="ORCID iD icon"/>0000-0002-5202-6961 </a></td>
+    <td><a href="https://oliviodare.com/" target="_blank"><img src="media/www.png" style="width: 1em; margin-inline-start:0.5em" alt="website icon"/>oliviodare.com</a></td>
   </tr>
 </table>
 
