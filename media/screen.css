@@ -87,6 +87,13 @@ a:hover, a:focus {
     outline: 0;
 }
 
+/* Media query for mobile devices */
+@media (max-width: 768px) {
+    #button {
+        padding: 10px 20px; /* Increase padding for a bigger button */
+        font-size: 1em; /* Increase font size */
+    }
+
 /* Sytle Table and Make Responive*/
 table {
     width: 100%;
@@ -98,11 +105,17 @@ table {
 td {
     padding: 0px;
     vertical-align: middle; /* Align text vertically with icons */
+}
+
+td a {
+    display: inline-flex; /* Use inline-flex for alignment */
     align-items: center; /* Center align items vertically */
 }
 
 td img {
-    margin-right: 0.5em; /* Adjust spacing between icon and text */}
+    margin-right: 0.5em; /* Adjust spacing between icon and text */
+    vertical-align: middle; /* Ensure the icon is vertically aligned */
+}
 
 
 
