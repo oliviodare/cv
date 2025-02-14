@@ -61,6 +61,8 @@ Peninsula: Academics, Activists and the Industry, 1930s-1990s (EXCHANGESCI)", Mi
 - **Bautista Perpinyà, M.** & Pence, C.H. (2023) "David Sepkoski’s *Catastrophic Thinking*," *BJPS Review of Books*. <a href="https://www.thebsps.org/reviewofbooks/perpinya-pence-on-sepkoski/" target="_blank">https://www.thebsps.org/reviewofbooks/perpinya-pence-on-sepkoski/</a>
 
 ## Conferences
+- "From Genetic Improvement to Biodiversity Conservation: Seed Orchards and Environmental Challenges in Spain in the Dismantling of the Forest Engineering Regime (1966-1999)," 7th Biennial Conference of the European Rural History Organisation (EURHO), Coimbra (Portugal), 2025
+- "Semi-fictitious biographies to think about values in science. An attempt towards performance," International Society for the History, Philosophy, and Social Studies of Biology (ISHPSSB), Porto (Portugal), 2025
 - "Databases, draught, Catalan nationalism and European scientific environmentalism in the Spanish democracy (1988-2004)," 11th Conference of the European Society for the History of Science, Barcelona (Spain), 2024
 - "(Inter)nationalism in the making of the Ecological and Forest Inventory of Catalonia," 10th Gewina Woudschoten Conference, Utrecht (the Netherlands), 2024
 - "Historia ambiental e Historia de la Ciencia: tensiones e hibridaciones interdisciplinares para una academia comprometida," IV Congreso de la Red Española de Historia Ambiental-RUED(H)A, Granada (Spain), 2024
