@@ -37,6 +37,11 @@ title: "Curriculum Vitae"
 - Open Science and Research Ethics
 
 ## Selected Research Experience
+### Working Group Member
+- **Project:** "Exchange Zones in the Production and Regulation of Technoscience in the Iberian
+Peninsula: Academics, Activists and the Industry, 1930s-1990s (EXCHANGESCI)", Ministerio de Ciencia, Innovación y Universidades (Spain)
+- **Duration:** January 2025 - ongoing
+
 ### Visiting Researcher
 - **Institution:** Institut d'Història de la Ciència (iHC), Universitat Autònoma de Barcelona (Spain)
 - **Duration:** January - July 2024

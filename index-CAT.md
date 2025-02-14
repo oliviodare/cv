@@ -37,14 +37,19 @@ title: "Curriculum Vitae"
 - Ciència Oberta i Ètica de la Recerca
 
 ## Experiència de Recerca rellevant
+### Membre de l'Equip de Treball
+- **Projecte:** "Exchange Zones in the Production and Regulation of Technoscience in the Iberian
+Peninsula: Academics, Activists and the Industry, 1930s-1990s (EXCHANGESCI)", Ministerio de Ciencia, Innovación y Universidades (Spain)
+- **Durada:** gener 2025 - ongoing
+
 ### Investigador Visitant
 - **Institució:** Institut d'Història de la Ciència (iHC), Universitat Autònoma de Barcelona
-- **Durada:** Gener - Juliol 2024
+- **Durada:** gener - juliol 2024
 - **Descripció:** Treball d'arxiu i entrevistes, presentació de resultats preliminars de la tesi a la comunitat de l'iHC
 
 ### Treball Final de Màster
 - **Institució:** Descartes Centre for the History and Philosophy of the Sciences and the Humanities, Utrecht University
-- **Durada:** Setembre 2019 - Desembre 2020
+- **Durada:** setembre 2019 - desembre 2020
 - **Tesi:** "To be a molecular scientist. The negotiation of epistemic and social virtues in 1970s *Nature*’s marketplace"
 
 ## Publicacions
