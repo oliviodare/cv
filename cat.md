@@ -17,7 +17,7 @@ title: "Curriculum Vitae"
 ### Doctorat en Filosofia
 - **Institució:** Université catholique de Louvain (Bèlgica)
 - **Graduació prevista:** 2026
-- **Tesi:** "The success and deradicalisation of ecology. Forests, environmentalism, and values in the making of Spanish contemporary democracy (1982-2007)"
+- **Tesi:** "The success and deradicalisation of ecology. Forest sciences, environmentalism, and values in the making of Spanish contemporary democracy (1982-2007)"
 
 ### Màster en Història i Filosofia de la Ciència, Cum Laude
 - **Institució:** Utrecht University (Països Baixos)
