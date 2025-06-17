@@ -61,25 +61,25 @@ Peninsula: Academics, Activists and the Industry, 1930s-1990s (EXCHANGESCI)", Mi
 - **Bautista Perpinyà, M.** & Pence, C.H. (2023) "David Sepkoski’s *Catastrophic Thinking*," *BJPS Review of Books*. <a href="https://www.thebsps.org/reviewofbooks/perpinya-pence-on-sepkoski/" target="_blank">https://www.thebsps.org/reviewofbooks/perpinya-pence-on-sepkoski/</a>
 
 ## Conferences
-- "From Genetic Improvement to Biodiversity Conservation: Seed Orchards and Environmental Challenges in Spain in the Dismantling of the Forest Engineering Regime (1966-1999)," 7th Biennial Conference of the European Rural History Organisation (EURHO), Coimbra (Portugal), 2025
-- "Whose scientific mandates should we nourish? On representational pluralism in the history of ecology and environmentalism," International Society for the History, Philosophy, and Social Studies of Biology (ISHPSSB), Porto (Portugal), 2025
-- "Del *Llibre Blanc* al *Inventari Ecològic i Forestal de Catalunya*: La cultura política de ecología sinóptica y la construcción de consentimiento hacia el nacionalismo neoliberal (1972-1989)," XVII Congreso de la Asociación de Historia Contemporánea, València (Spain), 2025
-- "El *Fer País* de la ecología sinóptica. Nacionalismo institucional y productividad racional frente al movimiento ecologista en Cataluña (1972-1989)," XV Congreso de la Sociedad Española de Historia de las Ciencias y de las Técnicas, Xixón (Spain), 2025
-- "Databases, draught, Catalan nationalism and European scientific environmentalism in the Spanish democracy (1988-2004)," 11th Conference of the European Society for the History of Science, Barcelona (Spain), 2024
-- "(Inter)nationalism in the making of the Ecological and Forest Inventory of Catalonia," 10th Gewina Woudschoten Conference, Utrecht (the Netherlands), 2024
-- "Historia ambiental e Historia de la Ciencia: tensiones e hibridaciones interdisciplinares para una academia comprometida," IV Congreso de la Red Española de Historia Ambiental-RUED(H)A, Granada (Spain), 2024
-- "Reading, listening, and reading. A collective walk on how we read and listen to the environment, history, and each other," World Congress of Environmental History, Oulu (Finland), 2024
-- "Scientific forestry in post-Franco Spain: making 'better' trees at a national network of experimental stations," 9th Gewina PhD Conference in History of Science and Humanities, Soeterbeek (the Netherlands), 2023
-- "'Straight trunks' and 'original biocenosis': production and conservation aims of Spanish foresters during the last third of the twentieth century at the Instituto Nacional para la Conservación de la Naturaleza," 10th Conference of the European Society for the History of Science, Brussels (Belgium), 2022
-- "Descentralizando la historia de la biodiversidad: el conocimiento científico y su co-construcción con políticas nacionales ambientales en el ICONA," III Congreso de la Red Española de Historia Ambiental-RUED(H)A, Granada (Spain), 2022
-- "'If You Need a New Microscope – Why Purchase an Old One?' Scientific Advertisements in *Nature* and Their Role in the Printed Forum of the Laboratory Research Community," British Society for the History of Science, 2021
+- "From Genetic Improvement to Biodiversity Conservation: Seed Orchards and Environmental Challenges in Spain in the Dismantling of the Forest Engineering Regime (1966-1999)," 7th Biennial Conference of the **European Rural History Organisation (EURHO)**, Coimbra (Portugal), 2025
+- "Whose scientific mandates should we nourish? On representational pluralism in the history of ecology and environmentalism," **International Society for the History, Philosophy, and Social Studies of Biology (ISHPSSB)**, Porto (Portugal), 2025
+- "Del *Llibre Blanc* al *Inventari Ecològic i Forestal de Catalunya*: La cultura política de ecología sinóptica y la construcción de consentimiento hacia el nacionalismo neoliberal (1972-1989)," XVII Congreso de la **Asociación de Historia Contemporánea**, València (Spain), 2025
+- "El *Fer País* de la ecología sinóptica. Nacionalismo institucional y productividad racional frente al movimiento ecologista en Cataluña (1972-1989)," XV Congreso de la **Sociedad Española de Historia de las Ciencias y de las Técnicas**, Xixón (Spain), 2025
+- "Databases, draught, Catalan nationalism and European scientific environmentalism in the Spanish democracy (1988-2004)," 11th Conference of the **European Society for the History of Science**, Barcelona (Spain), 2024
+- "(Inter)nationalism in the making of the Ecological and Forest Inventory of Catalonia," 10th **Gewina Woudschoten Conference**, Utrecht (the Netherlands), 2024
+- "Historia ambiental e Historia de la Ciencia: tensiones e hibridaciones interdisciplinares para una academia comprometida," IV Congreso de la **Red Española de Historia Ambiental-RUED(H)A**, Granada (Spain), 2024
+- "Reading, listening, and reading. A collective walk on how we read and listen to the environment, history, and each other," **World Congress of Environmental History**, Oulu (Finland), 2024
+- "Scientific forestry in post-Franco Spain: making 'better' trees at a national network of experimental stations," 9th **Gewina PhD Conference in History of Science and Humanities**, Soeterbeek (the Netherlands), 2023
+- "'Straight trunks' and 'original biocenosis': production and conservation aims of Spanish foresters during the last third of the twentieth century at the Instituto Nacional para la Conservación de la Naturaleza," 10th Conference of the **European Society for the History of Science**, Brussels (Belgium), 2022
+- "Descentralizando la historia de la biodiversidad: el conocimiento científico y su co-construcción con políticas nacionales ambientales en el ICONA," III Congreso de la **Red Española de Historia Ambiental-RUED(H)A**, Granada (Spain), 2022
+- "'If You Need a New Microscope – Why Purchase an Old One?' Scientific Advertisements in *Nature* and Their Role in the Printed Forum of the Laboratory Research Community," **British Society for the History of Science**, 2021
 
 ## Invited Lectures
-- “Science and Action: Roundtable on the history and future of the relationship between research and management at La Garrotxa Volcanic Zone Natural Park," La Garrotxa Volcanic Zone Natural Park, Girona (Spain), 2024
-- "¿Qué es una publicación científica? Reflexiones históricas, filosóficas, y críticas," Jornadas sobre la carrera investigadora, Sociedad Española de Bioquímica y Biología Molecular, Madrid (Spain), 2021
-- "Ciencia Abierta: Globalidad y Localidad," IV Conveción Científica Internacional. Sistemas latinoamericanos de indexación: ética o estética, Universidad Técnica de Manabí, Manabí (Ecuador), 2020
-- "The Journal of Trial and Error meets the Early-Career Swiss Society for Neuroscience," Second Swiss Early-career Researchers Symposium, University of Bern, Bern (Switzerland), 2020
-- "The Journal of Trial and Error. Publishing science in the making: trying and erring in the age of open science," Annual Graduate Student Symposium, University of Cambridge, Cambridge (United Kingdom), 2019
+- “Science and Action: Roundtable on the history and future of the relationship between research and management at La Garrotxa Volcanic Zone Natural Park," **La Garrotxa Volcanic Zone Natural Park**, Girona (Spain), 2024
+- "¿Qué es una publicación científica? Reflexiones históricas, filosóficas, y críticas," Jornadas sobre la carrera investigadora, **Sociedad Española de Bioquímica y Biología Molecular**, Madrid (Spain), 2021
+- "Ciencia Abierta: Globalidad y Localidad," IV Conveción Científica Internacional. Sistemas latinoamericanos de indexación: ética o estética, **Universidad Técnica de Manabí**, Manabí (Ecuador), 2020
+- "The Journal of Trial and Error meets the Early-Career Swiss Society for Neuroscience," Second Swiss Early-career Researchers Symposium, **University of Bern**, Bern (Switzerland), 2020
+- "The Journal of Trial and Error. Publishing science in the making: trying and erring in the age of open science," Annual Graduate Student Symposium, **University of Cambridge**, Cambridge (United Kingdom), 2019
 
 ## Teaching Experience
 ### Internship Coordinator
