@@ -62,7 +62,9 @@ Peninsula: Academics, Activists and the Industry, 1930s-1990s (EXCHANGESCI)", Mi
 
 ## Conferències
 - "From Genetic Improvement to Biodiversity Conservation: Seed Orchards and Environmental Challenges in Spain in the Dismantling of the Forest Engineering Regime (1966-1999)," 7th Biennial Conference of the European Rural History Organisation (EURHO), Coimbra (Portugal), 2025
-- "Semi-fictitious biographies to think about values in science. An attempt towards performance," International Society for the History, Philosophy, and Social Studies of Biology (ISHPSSB), Porto (Portugal), 2025
+- "Whose scientific mandates should we nourish? On representational pluralism in the history of ecology and environmentalism," International Society for the History, Philosophy, and Social Studies of Biology (ISHPSSB), Porto (Portugal), 2025
+- "Del *Llibre Blanc* al *Inventari Ecològic i Forestal de Catalunya*: La cultura política de ecología sinóptica y la construcción de consentimiento hacia el nacionalismo neoliberal (1972-1989)," XVII Congreso de la Asociación de Historia Contemporánea, València, 2025
+- "El *Fer País* de la ecología sinóptica. Nacionalismo institucional y productividad racional frente al movimiento ecologista en Cataluña (1972-1989)," XV Congreso de la Sociedad Española de Historia de las Ciencias y de las Técnicas, Xixón, 2025
 - "Databases, draught, Catalan nationalism and European scientific environmentalism in the Spanish democracy (1988-2004)," 11th Conference of the European Society for the History of Science, Barcelona, 2024
 - "(Inter)nationalism in the making of the Ecological and Forest Inventory of Catalonia," 10th Gewina Woudschoten Conference, Utrecht (Països Baixos) 2024
 - "Historia ambiental e Historia de la Ciencia: tensiones e hibridaciones interdisciplinares para una academia comprometida," IV Congreso de la Red Española de Historia Ambiental-RUED(H)A, Granada, 2024

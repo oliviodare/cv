@@ -62,7 +62,9 @@ Peninsula: Academics, Activists and the Industry, 1930s-1990s (EXCHANGESCI)", Mi
 
 ## Conferences
 - "From Genetic Improvement to Biodiversity Conservation: Seed Orchards and Environmental Challenges in Spain in the Dismantling of the Forest Engineering Regime (1966-1999)," 7th Biennial Conference of the European Rural History Organisation (EURHO), Coimbra (Portugal), 2025
-- "Semi-fictitious biographies to think about values in science. An attempt towards performance," International Society for the History, Philosophy, and Social Studies of Biology (ISHPSSB), Porto (Portugal), 2025
+- "Whose scientific mandates should we nourish? On representational pluralism in the history of ecology and environmentalism," International Society for the History, Philosophy, and Social Studies of Biology (ISHPSSB), Porto (Portugal), 2025
+- "Del *Llibre Blanc* al *Inventari Ecològic i Forestal de Catalunya*: La cultura política de ecología sinóptica y la construcción de consentimiento hacia el nacionalismo neoliberal (1972-1989)," XVII Congreso de la Asociación de Historia Contemporánea, València (Spain), 2025
+- "El *Fer País* de la ecología sinóptica. Nacionalismo institucional y productividad racional frente al movimiento ecologista en Cataluña (1972-1989)," XV Congreso de la Sociedad Española de Historia de las Ciencias y de las Técnicas, Xixón (Spain), 2025
 - "Databases, draught, Catalan nationalism and European scientific environmentalism in the Spanish democracy (1988-2004)," 11th Conference of the European Society for the History of Science, Barcelona (Spain), 2024
 - "(Inter)nationalism in the making of the Ecological and Forest Inventory of Catalonia," 10th Gewina Woudschoten Conference, Utrecht (the Netherlands), 2024
 - "Historia ambiental e Historia de la Ciencia: tensiones e hibridaciones interdisciplinares para una academia comprometida," IV Congreso de la Red Española de Historia Ambiental-RUED(H)A, Granada (Spain), 2024
@@ -113,7 +115,7 @@ Peninsula: Academics, Activists and the Industry, 1930s-1990s (EXCHANGESCI)", Mi
 ## Professional Activities
 ### Co-Organizer, 10th PhD Conference in History of Science, Medicine, and Humanities in Belgium and the Netherlands (April 2025), Beyond Switching Plastic Straws
 - **Institution:** Belgian-Dutch Society for the History of Science and University (Gewina)
-- Co-organised with Marieke Gelderblom (Utrecht University) and Martijn van der Meer (Erasmus University Rotterdam
+- Co-organised with Marieke Gelderblom (Utrecht University) and Martijn van der Meer (Erasmus University Rotterdam)
 - <a href="https://www.gewina.nl/cfp-beyond-switching-plastic-straws/" target="_blank">https://www.gewina.nl/cfp-beyond-switching-plastic-straws/</a>
 
 ### Co-Organizer, Disciplinary crossroads: history of science and environmental history, 2024
