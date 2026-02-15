@@ -30,8 +30,8 @@ title: "Curriculum Vitae"
 - **Tesi:** "Limbic morphology and emotion in Borderline Personality Disorder"
 
 ## Interessos de Recerca
-- Història de l'ecologia, enginyeria 'de montes', ecologisme, activisme 
-- Ciència i franquisme, transició i democràcia
+- Història de l'ecologia, enginyeria 'de montes', ecologisme, i activisme 
+- Ciència durant el franquisme, transició política i consolidació democràtica
 - Història de la ciència
 - Història ambiental
 - Valors en la ciència
@@ -41,7 +41,7 @@ title: "Curriculum Vitae"
 ### Membre de l'Equip de Treball
 - **Projecte:** "Exchange Zones in the Production and Regulation of Technoscience in the Iberian
 Peninsula: Academics, Activists and the Industry, 1930s-1990s (EXCHANGESCI)", Ministerio de Ciencia, Innovación y Universidades (Spain)
-- **Durada:** gener 2025 - ongoing
+- **Durada:** gener 2025 - actualitat
 
 ### Investigador Visitant
 - **Institució:** Institut d'Història de la Ciència (iHC), Universitat Autònoma de Barcelona
@@ -71,16 +71,16 @@ Peninsula: Academics, Activists and the Industry, 1930s-1990s (EXCHANGESCI)", Mi
 - "Historia ambiental e Historia de la Ciencia: tensiones e hibridaciones interdisciplinares para una academia comprometida," IV Congreso de la **Red Española de Historia Ambiental-RUED(H)A**, Granada, 2024
 - "Reading, listening, and reading. A collective walk on how we read and listen to the environment, history, and each other," **World Congress of Environmental History**, Oulu (Finlandia), 2024
 - "Scientific forestry in post-Franco Spain: making 'better' trees at a national network of experimental stations," 9th **Gewina PhD Conference in History of Science and Humanities**, Soeterbeek (Països Baixos), 2023
-- "'Straight trunks' and 'original biocenosis': production and conservation aims of Spanish foresters during the last third of the twentieth century at the Instituto Nacional para la Conservación de la Naturaleza," 10th Conference of the **European Society for the History of Science**, Brusel·les (Bèlgica), 2022
+- "'Straight trunks' and 'original biocenosis': production and conservation aims of Spanish foresters during the last third of the twentieth century at the Instituto Nacional para la Conservación de la Naturaleza," 10th Conference of the **European Society for the History of Science**, Brussel·les (Bèlgica), 2022
 - "Descentralizando la historia de la biodiversidad: el conocimiento científico y su co-construcción con políticas nacionales ambientales en el ICONA," III Congreso de la **Red Española de Historia Ambiental-RUED(H)A**, Granada, 2022
 - "'If You Need a New Microscope – Why Purchase an Old One?' Scientific Advertisements in *Nature* and Their Role in the Printed Forum of the Laboratory Research Community," **British Society for the History of Science**, 2021
 
 ## Conferències Convidades
 - "Ciència i Acció: Una taula rodona sobre la història i el futur de la relació entre recerca i gestió al Parc Natural de la Zona Volcànica de la Garrotxa," **Parc Natural de la Zona Volcànica de la Garrotxa**, La Garrotxa, 2024
 - "¿Qué es una publicación científica? Reflexiones históricas, filosóficas, y críticas," Jornadas sobre la carrera investigadora, **Sociedad Española de Bioquímica y Biología Molecular**, Madrid, 2021
-- "Ciencia Abierta: Globalidad y Localidad," IV Conveción Científica Internacional. Sistemas latinoamericanos de indexación: ética o estética, **Universidad Técnica de Manabí**, Manabí (Ecuador), 2020
+- "Ciencia Abierta: Globalidad y Localidad," IV Convención Científica Internacional. Sistemas latinoamericanos de indexación: ética o estética, **Universidad Técnica de Manabí**, Manabí (Ecuador), 2020
 - "The Journal of Trial and Error meets the Early-Career Swiss Society for Neuroscience," Second Swiss Early-career Researchers Symposium, **University of Bern**, Berna (Suïssa), 2020
-- "The Journal of Trial and Error. Publishing science in the making: trying and erring in the age of open science," Annual Graduate Student Symposium, **University of Cambridge**, Cambdrige (Regne Unit), 2019
+- "The Journal of Trial and Error. Publishing science in the making: trying and erring in the age of open science," Annual Graduate Student Symposium, **University of Cambridge**, Cambridge (Regne Unit), 2019
 
 ## Experiència Docent
 ### Coordinador de Pràctiques
@@ -102,7 +102,7 @@ Peninsula: Academics, Activists and the Industry, 1930s-1990s (EXCHANGESCI)", Mi
 ## Treball Editorial
 ### Cofundador, *Journal of Trial and Error*
 - **Anys:** 2018-2022
-- **Objectius:** Initiative born from a productive mixture between HPS literature and the Open Science movement. Interdisciplinary journal providing an avenue for peer-reviewed articles of and about failure in science. Currently a Diamond Open Access journal. https://journal.trialanderror.org/. <a href="https://journal.trialanderror.org/" target="_blank">https://journal.trialanderror.org/</a>
+- **Objectius:** Initiative born from a productive mixture between HPS literature and the Open Science movement. Interdisciplinary journal providing an avenue for peer-reviewed articles of and about failure in science. Currently a Diamond Open Access journal. <a href="https://journal.trialanderror.org/" target="_blank">https://journal.trialanderror.org/</a>
 - **Rols:** Desenvolupament de la política editorial, donar xerrades en conferències, contactar amb institucions i coordinar el disseny
 
 ### Assistent Editorial, Projecte ERC ARTECHNE, Utrecht University
@@ -131,7 +131,7 @@ Peninsula: Academics, Activists and the Industry, 1930s-1990s (EXCHANGESCI)", Mi
 ## Premis i Distincions
 - Doctorand 'Aspirant' del Fons Nacional de la Recerca Científica de Bèlgica (FNRS). Beca de 4 anys.
 - Resident, Residència d'escriptura 'Ciències de la Terra: Història, Ciència i Societat,' Faberllull Olot, 2024
-- Participant finançat, Escola d'estiu internacional 'Interdisciplinary Perspectives on Climate and Biodiversity Crises: Historical evolutions, current realities, and future pathways for socio-ecological transformation,' École Normale Supérieure i Centre Marc Bloch, Paris (França) 2023
+- Participant finançat, Escola d'estiu internacional 'Interdisciplinary Perspectives on Climate and Biodiversity Crises: Historical evolutions, current realities, and future pathways for socio-ecological transformation,' École Normale Supérieure i Centre Marc Bloch, París (França) 2023
 - Beca Vicent Peset Llorca 2021-22, Institut Interuniversitari López Piñero per a la Història de la Medicina i la Ciència, Universitat de València, València
 - "What does it mean to die as a senior? The evolving narrative of death in Spain during the coronavirus pandemic," (2020) 'Coronavirus crisis speed research', Freudenthal Institute, Utrecht University
 
