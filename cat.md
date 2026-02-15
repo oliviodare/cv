@@ -30,11 +30,11 @@ title: "Curriculum Vitae"
 - **Tesi:** "Limbic morphology and emotion in Borderline Personality Disorder"
 
 ## Interessos de Recerca
-- Història de l'Ecologia
-- Valors en la Ciència
-- Història Ambiental
-- Història Oral
-- Ciència Oberta i Ètica de la Recerca
+- Història de l'ecologia
+- Valors en la ciència
+- Història ambiental
+- Historia de l'ecologisme, activisme
+- Ciència oberta i ètica de la recerca
 
 ## Experiència de Recerca rellevant
 ### Membre de l'Equip de Treball
