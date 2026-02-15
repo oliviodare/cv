@@ -31,7 +31,7 @@ title: "Curriculum Vitae"
 
 ## Research Interests
 - History of Ecology, Forestry, Environmentalist Movement, and Activism
-- Science during Francoism and Political Transition to Democracy
+- Science during Francoism, Political Transition, and Democratic Consolidation
 - History of Science
 - Environmental History
 - Values in Science
