@@ -33,7 +33,7 @@ title: "Curriculum Vitae"
 - History of Ecology
 - Values in Science 
 - Environmental History
-- History of environmentalism, activism
+- History of Environmentalist Movement, Activism
 - Open Science and Research Ethics
 
 ## Selected Research Experience
