@@ -77,6 +77,7 @@ Peninsula: Academics, Activists and the Industry, 1930s-1990s (EXCHANGESCI)", Mi
 - "'If You Need a New Microscope – Why Purchase an Old One?' Scientific Advertisements in *Nature* and Their Role in the Printed Forum of the Laboratory Research Community," **British Society for the History of Science**, 2021
 
 ## Invited Lectures
+- Closing address, **V Jornada d'Historiografia Local: "Història ambiental i comunitats locals**, Centres d'Estudis de Parla Catalana (CCEPC), Institut Ramon Muntaner (IRMU), Institut d'Estudis Ilerdencs (IEI), Diputació de Lleida, 2025.
 - “Science and Action: Roundtable on the history and future of the relationship between research and management at La Garrotxa Volcanic Zone Natural Park," **La Garrotxa Volcanic Zone Natural Park**, Girona (Spain), 2024
 - "¿Qué es una publicación científica? Reflexiones históricas, filosóficas, y críticas," Jornadas sobre la carrera investigadora, **Sociedad Española de Bioquímica y Biología Molecular**, Madrid (Spain), 2021
 - "Ciencia Abierta: Globalidad y Localidad," IV Convención Científica Internacional. Sistemas latinoamericanos de indexación: ética o estética, **Universidad Técnica de Manabí**, Manabí (Ecuador), 2020
