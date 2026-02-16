@@ -116,6 +116,10 @@ Peninsula: Academics, Activists and the Industry, 1930s-1990s (EXCHANGESCI)", Mi
 - **Roles:** Manuscript anonymisation, contact with reviewers, coordination with editors-in-chief
 
 ## Professional Activities
+### Co-Organizer, Jornadas CIMETEC, Jornadas jóvenes ibéricas de historia de la ciencia, medicina y tecnología
+- **Institutional support from** Societat Catalana d'Història de la Ciència i la Tècnica (SCHCT), Sociedad Española de Historia de la Medicina (SEHM), Centro Interuniversitário de História das Ciências e da Tecnologia (CIUHCT), Institut d'Història de la Ciència (iHC-UAB), Institut d'Estudis Catalans (IEC), Institut Interuniversitari Lopéz Piñero (IILP), Escola de Doctorat de la Universtitat Autònoma de Barcelona.
+- Co-organised with Andrea Álvarez Laorden, Hèctor Isern Alsina, Pier Luigi Pireddu, María Mundi López, and Silvia Pérez Criado.
+  
 ### Co-Organizer, 10th PhD Conference in History of Science, Medicine, and Humanities in Belgium and the Netherlands (April 2025), Beyond Switching Plastic Straws
 - **Institution:** Belgian-Dutch Society for the History of Science and University (Gewina)
 - Co-organised with Marieke Gelderblom (Utrecht University) and Martijn van der Meer (Erasmus University Rotterdam)
