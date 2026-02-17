@@ -130,7 +130,7 @@ title: "Curriculum Vitae"
 ## Awards and Honours
 - 'Aspirant' Doctoral Fellow of the Belgian National Science Fund (FNRS). 4-year fully-funded scholarship
 - Fellow, Collective writing residency 'Earth Sciences: History, Science and Society,' Faberllull Olot, 2024
-- Fully-funded participant, International summer school 'Interdisciplinary Perspectives on Climate and Biodiversity Crises: Historical evolutions, current realities, and future pathways for socio-ecological transformation,' École Normale Supérieure and Centre Marc Bloch, Paris (France), 2023
+- Fully-funded participant, International summer school 'Interdisciplinary Perspectives on Climate and Biodiversity Crises: Historical evolutions, current realities, and future pathways for socio-ecological transformation,' École Normale Supérieure and Centre Marc Bloch, Paris, 2023
 - Vicent Peset Llorca Fellowship 2021-22, Inter-university Institute López Piñero for the History of Medicine and Science, Universitat de València, València (Spain)
 - "What does it mean to die as a senior? The evolving narrative of death in Spain during the coronavirus pandemic," (2020) 'Coronavirus crisis speed research', Freudenthal Institute, Utrecht University
 
@@ -138,4 +138,4 @@ title: "Curriculum Vitae"
 - **Catalan:** Native
 - **Spanish:** Native
 - **English:** Full Professional
-- **French:** Intermediate
+- **French:** Advanced Intermediate
