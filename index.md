@@ -14,32 +14,21 @@ title: "Curriculum Vitae"
 </table>
 
 ## Education
-### Ph.D. Candidate in Philosophy (Université catholique de Louvain)
+### PhD Candidate in Philosophy (Université catholique de Louvain)
 **Thesis:** "Many Forests, Convergent Politics. Forest Genetics, Terrestrial Ecology, and the Environmentalist Movement in the Making of Spanish Contemporary Democracy (1943–2007)"
 
-### M.Sc. in History and Philosophy of Science, Cum Laude (Utrecht University, 2020)
+### MSc in History and Philosophy of Science, Cum Laude (Utrecht University, 2020)
 **Thesis:** "To be a molecular scientist. The negotiation of epistemic and social virtues in 1970s *Nature*’s marketplace"
 
-### M.Sc. in Neuroscience, High Honours (Université de Strasbourg, 2016)
+### MSc in Neuroscience, High Honours (Université de Strasbourg, 2016)
 **Thesis:** "Limbic morphology and emotion in Borderline Personality Disorder"
 
-## Research Interests
-- History of Ecology, Forestry, and the Environmentalist Movement
-- Science during Francoism, Political Transition, and Democratic Consolidation
-- History of Science
-- Environmental History
-- Values in Science
-- Open Science and Research Ethics
+## Research Appointments
+### Working Group Member, EXCHANGESCI (Ministerio de Ciencia, Spain), 2025–
+<a href="https://webs.uab.cat/zonas-activistas/" target="_blank">https://webs.uab.cat/zonas-activistas/</a>
 
-## Selected Research Experience
-### Working Group Member
-- **Project:** "Exchange Zones in the Production and Regulation of Technoscience in the Iberian Peninsula: Academics, Activists and the Industry, 1930s-1990s (EXCHANGESCI)", Ministerio de Ciencia, Innovación y Universidades (Spain)
-- **Duration:** January 2025 - ongoing
-
-### Visiting Researcher
-- **Institution:** Institut d'Història de la Ciència (iHC), Universitat Autònoma de Barcelona
-- **Duration:** January - July 2024
-- **Description:** Archival work and interviews, presentation of preliminary results to the iHC community
+### Visiting Researcher, Institut d’Història de la Ciència (UAB), 2024
+Archival research, interviews, and presentation of preliminary findings to the iHC community
 
 ## Publications
 ### Articles
@@ -73,40 +62,28 @@ title: "Curriculum Vitae"
 - "The Journal of Trial and Error. Publishing science in the making: trying and erring in the age of open science," Annual Graduate Student Symposium, **University of Cambridge**, Cambridge, 2019
 
 ## Teaching Experience
-### Internship Coordinator
-- **Institution:** Journal of Trial and Error
-- **Years:** 2021
-- **Roles:** Design of internship goals and assessment of milestones for an intern of the Masters in History and Philosophy of Science (Utrecht University)
+### Internship Coordinator, _Journal of Trial and Error_, 2021
+Designed internship framework and assessment for MSc HPS student (Utrecht University).
 
-### Workshop Instructor
-- **Institution:** Life Sciences Faculty, Utrecht University
-- **Years:** 2021-2022
-- **Roles:** Design and facilitation of workshops: 'Community Research Ethics and Publication Ethics' and ‘Publication Possibilities, Scientific Outreach and Open Science’
-- **Audience:** Introductory days for 500+ new master students
+### Workshop Instructor, Utrecht University (Life Sciences Faculty), 2021–2022
+Designed and delivered workshops on publication ethics, outreach, and open science (500+ MSc students).
 
-### Student supervisor
-- **Institution:** Biological & Personality Psychology Laboratory, Universität Freiburg
-- **Years:** 2016
-- **Roles:** Daily management of several undergraduates. Teaching a neuroimaging sectioning technique
+### Student Supervisor, Universität Freiburg, 2016
+Supervised undergraduates; taught neuroimaging sectioning techniques.
 
 ## Editorial Work
-### Co-founder, *Journal of Trial and Error*
-- **Years:** 2018-2022
-- **Objectives:** Initiative born from a productive mixture between HPS literature and the Open Science movement. Interdisciplinary journal providing an avenue for peer-reviewed articles of and about failure in science. Currently a Diamond Open Access journal. <a href="https://journal.trialanderror.org/" target="_blank">https://journal.trialanderror.org/</a> 
-- **Roles:** developing working concepts and editorial policy, giving conference talks, contacting institutions, and coordinating design
+### Co-founder, *Journal of Trial and Error*, 2018–2022
+Diamond Open Access journal on failure in science. Developed editorial policy, coordinated design, institutional outreach.
 
-### Editorial Assistant, ARTECHNE ERC Project, Utrecht University
-- **Years:** 2021
-- **Roles:** Editing and management of two edited volumes: *Histories of Conservation and Art History in Modern Europe* (Routledge) and *The Making of Technique in the Art* (Brepols)
+# Editorial Assistant, ARTECHNE ERC Project (Utrecht University), 2021
+Edited two volumes: _Histories of Conservation and Art History in Modern Europe_ (Routledge) and _The Making of Technique in the Art_ (Brepols).
 
-### Assistant Managing Editor, *Journal for the History of Knowledge*
-- **Years:** 2020
-- **Roles:** Manuscript anonymisation, contact with reviewers, coordination with editors-in-chief
+# Assistant Managing Editor, Journal for the History of Knowledge, 2020
+Manuscript processing, reviewer coordination, editorial management.
 
 ## Professional Activities
-### Co-Organizer, Jornadas CIMETEC, Jornadas jóvenes ibéricas de historia de la ciencia, medicina y tecnología
-- Institutional support from Societat Catalana d'Història de la Ciència i la Tècnica (SCHCT), Sociedad Española de Historia de la Medicina (SEHM), Centro Interuniversitário de História das Ciências e da Tecnologia (CIUHCT), Institut d'Història de la Ciència (iHC-UAB), Institut d'Estudis Catalans (IEC), Institut Interuniversitari Lopéz Piñero (IILP), Escola de Doctorat de la Universtitat Autònoma de Barcelona.
-- Co-organised with Andrea Álvarez Laorden, Hèctor Isern Alsina, Pier Luigi Pireddu, María Mundi López, and Silvia Pérez Criado.
+# Co-Organizer, Jornadas CIMETEC (Young Iberian Conference in History of Science, Medicine & Technology)
+Organised with A. Álvarez Laorden, H. Isern Alsina, P. L. Pireddu, M. Mundi López, S. Pérez Criado. Supported by SCHCT, SEHM, CIUHCT, iHC-UAB, IEC.
   
 ### Co-Organizer, 10th PhD Conference in History of Science, Medicine, and Humanities in Belgium and the Netherlands (April 2025), Beyond Switching Plastic Straws
 - **Institution:** Belgian-Dutch Society for the History of Science and University (Gewina)
@@ -122,12 +99,20 @@ title: "Curriculum Vitae"
 - Co-organised with Charles H. Pence
 
 ## Awards and Honours
-- 'Aspirant' Doctoral Fellow of the Belgian National Science Fund (FNRS). 4-year fully-funded scholarship
+- Aspirant Doctoral Fellow, FNRS (4-year fully funded scholarship)
 - Fellow, Collective writing residency 'Earth Sciences: History, Science and Society,' Faberllull Olot, 2024
 - Fully-funded participant, International summer school 'Interdisciplinary Perspectives on Climate and Biodiversity Crises: Historical evolutions, current realities, and future pathways for socio-ecological transformation,' École Normale Supérieure and Centre Marc Bloch, Paris, 2023
 - Vicent Peset Llorca Fellowship 2021-22, Inter-university Institute López Piñero for the History of Medicine and Science, Universitat de València, València (Spain)
 - "What does it mean to die as a senior? The evolving narrative of death in Spain during the coronavirus pandemic," (2020) 'Coronavirus crisis speed research', Freudenthal Institute, Utrecht University
 
+## Research Interests
+- History of Ecology, Forestry, and the Environmentalist Movement
+- Science during Francoism, Political Transition, and Democratic Consolidation
+- History of Science
+- Environmental History
+- Values in Science
+- Open Science and Research Ethics
+  
 ## Languages
 - **Catalan:** Native
 - **Spanish:** Native
