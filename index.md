@@ -23,9 +23,16 @@ title: "Curriculum Vitae"
 ### MSc in Neuroscience, High Honours (Université de Strasbourg, 2016)
 **Thesis:** "Limbic morphology and emotion in Borderline Personality Disorder"
 
-## Research Appointments
+## Awards and Honours
+- Aspirant Doctoral Fellow, FNRS (4-year fully funded scholarship)
+- Fellow, Collective writing residency 'Earth Sciences: History, Science and Society,' Faberllull Olot, 2024
+- Fully-funded participant, International summer school 'Interdisciplinary Perspectives on Climate and Biodiversity Crises: Historical evolutions, current realities, and future pathways for socio-ecological transformation,' École Normale Supérieure and Centre Marc Bloch, Paris, 2023
+- Vicent Peset Llorca Fellowship 2021-22, Inter-university Institute López Piñero for the History of Medicine and Science, Universitat de València, València (Spain)
+- "What does it mean to die as a senior? The evolving narrative of death in Spain during the coronavirus pandemic," (2020) 'Coronavirus crisis speed research', Freudenthal Institute, Utrecht University
+
+## Research Projects
 ### Working Group Member, EXCHANGESCI (Ministerio de Ciencia, Spain), 2025–
-<a href="https://webs.uab.cat/zonas-activistas/" target="_blank">https://webs.uab.cat/zonas-activistas/</a>
+Project on 'exchange zones' between academics, activists, and industry in Iberian technoscience (1930s–1990s).
 
 ### Visiting Researcher, Institut d’Història de la Ciència (UAB), 2024
 Archival research, interviews, and presentation of preliminary findings to the iHC community
@@ -40,7 +47,7 @@ Archival research, interviews, and presentation of preliminary findings to the i
 
 ## Papers and Organised Sessions at Conferences
 - European Society for the History of Science/History of Science Society Joint Meeting, Edinburg 2026
-  - Convenor of Session 'Activist Epistemics and Artefacts' with Laia Iturrizaga-Zurita and Jaume Valentines-Álvarez
+  - Convenor of Session 'Activist Epistemics and Artefacts' with L. Iturrizaga-Zurita and J. Valentines-Álvarez
 - European Rural History Organisation (EURHO), Coimbra 2025
 - International Society for the History, Philosophy, and Social Studies of Biology (ISHPSSB), Porto 2025
 - Asociación de Historia Contemporánea, València 2025
@@ -49,12 +56,12 @@ Archival research, interviews, and presentation of preliminary findings to the i
 - Gewina Woudschoten Conference, Utrecht 2024
 - World Congress of Environmental History, Oulu 2024
 - European Society for the History of Science, Barcelona 2024, Brussels 2022
-  - Convenor of Session 'Science in political transitions' with Judit Gil-Farrero (ESHS2024)
+  - Convenor of Session 'Science in political transitions' with J. Gil-Farrero (ESHS2024)
 - Red Española de Historia Ambiental-RUEDHA, Granada 2024, Granada 2022
-  - Convenor of Session 'Historia ambiental e Historia de la ciencia: tensiones e hibridaciones' with Carolina Granado (RUEDHA2024)
+  - Convenor of Session 'Historia ambiental e Historia de la ciencia: tensiones e hibridaciones' with C. Granado (RUEDHA2024)
 
 ## Invited Lectures
-- Closing address, **V Jornada d'Historiografia Local: "Història ambiental i comunitats locals**, Centres d'Estudis de Parla Catalana (CCEPC), Institut Ramon Muntaner (IRMU), Institut d'Estudis Ilerdencs (IEI), Diputació de Lleida, 2025
+- Closing address, **V Jornada d'Historiografia Local: Història ambiental i comunitats locals**, Centres d'Estudis de Parla Catalana (CCEPC), Institut Ramon Muntaner (IRMU), Institut d'Estudis Ilerdencs (IEI), Diputació de Lleida, 2025
 - “Science and Action: Roundtable on the history and future of the relationship between research and management at La Garrotxa Volcanic Zone Natural Park," **La Garrotxa Volcanic Zone Natural Park**, Girona, 2024
 - "¿Qué es una publicación científica? Reflexiones históricas, filosóficas, y críticas," Jornadas sobre la carrera investigadora, **Sociedad Española de Bioquímica y Biología Molecular**, Madrid, 2021
 - "Ciencia Abierta: Globalidad y Localidad," IV Convención Científica Internacional. Sistemas latinoamericanos de indexación: ética o estética, **Universidad Técnica de Manabí**, Manabí, 2020
@@ -75,14 +82,14 @@ Supervised undergraduates; taught neuroimaging sectioning techniques.
 ### Co-founder, *Journal of Trial and Error*, 2018–2022
 Diamond Open Access journal on failure in science. Developed editorial policy, coordinated design, institutional outreach.
 
-# Editorial Assistant, ARTECHNE ERC Project (Utrecht University), 2021
+### Editorial Assistant, ARTECHNE ERC Project (Utrecht University), 2021
 Edited two volumes: _Histories of Conservation and Art History in Modern Europe_ (Routledge) and _The Making of Technique in the Art_ (Brepols).
 
-# Assistant Managing Editor, Journal for the History of Knowledge, 2020
+### Assistant Managing Editor, Journal for the History of Knowledge, 2020
 Manuscript processing, reviewer coordination, editorial management.
 
 ## Professional Activities
-# Co-Organizer, Jornadas CIMETEC (Young Iberian Conference in History of Science, Medicine & Technology)
+### Co-Organizer, Jornadas CIMETEC (Young Iberian Conference in History of Science, Medicine & Technology)
 Organised with A. Álvarez Laorden, H. Isern Alsina, P. L. Pireddu, M. Mundi López, S. Pérez Criado. Supported by SCHCT, SEHM, CIUHCT, iHC-UAB, IEC.
   
 ### Co-Organizer, 10th PhD Conference in History of Science, Medicine, and Humanities in Belgium and the Netherlands (April 2025), Beyond Switching Plastic Straws
@@ -92,26 +99,14 @@ Organised with A. Álvarez Laorden, H. Isern Alsina, P. L. Pireddu, M. Mundi Ló
 
 ### Co-Organizer, Disciplinary crossroads: history of science and environmental history, 2024
 - **Institution:** Institut d’Història de la Ciència, Universitat Autònoma de Barcelona
-- Co-organised with Carolina Granado (iHC-UAB) and Hèctor Isern (iHC-UAB)
+- Co-organised with C. Granado (iHC-UAB) and H. Isern (iHC-UAB)
 
 ### Co-Organizer, Integrating the History and Philosophy of Biodiversity. Narratives of Diversity, Extinction, Conflict and Value, 2023
 - **Institution:** UCLouvain and the Royal Belgian Institute of Natural Sciences
-- Co-organised with Charles H. Pence
+- Co-organised with C.H. Pence
 
-## Awards and Honours
-- Aspirant Doctoral Fellow, FNRS (4-year fully funded scholarship)
-- Fellow, Collective writing residency 'Earth Sciences: History, Science and Society,' Faberllull Olot, 2024
-- Fully-funded participant, International summer school 'Interdisciplinary Perspectives on Climate and Biodiversity Crises: Historical evolutions, current realities, and future pathways for socio-ecological transformation,' École Normale Supérieure and Centre Marc Bloch, Paris, 2023
-- Vicent Peset Llorca Fellowship 2021-22, Inter-university Institute López Piñero for the History of Medicine and Science, Universitat de València, València (Spain)
-- "What does it mean to die as a senior? The evolving narrative of death in Spain during the coronavirus pandemic," (2020) 'Coronavirus crisis speed research', Freudenthal Institute, Utrecht University
-
-## Research Interests
-- History of Ecology, Forestry, and the Environmentalist Movement
-- Science during Francoism, Political Transition, and Democratic Consolidation
-- History of Science
-- Environmental History
-- Values in Science
-- Open Science and Research Ethics
+## Research Areas
+History of Ecology and Forestry; Environmentalism and Political Transitions; Environmental History; Values in Science; Open Science.
   
 ## Languages
 - **Catalan:** Native
