@@ -15,17 +15,17 @@ title: "Curriculum Vitae"
 
 ## Education
 ### Ph.D. Candidate in Philosophy
-- **Institution:** Université catholique de Louvain (Belgium)
+- **Institution:** Université catholique de Louvain
 - **Projected graduation:** 2026
-- **Thesis:** "The success and deradicalisation of ecology. Forest sciences, environmentalism, and values in the making of Spanish contemporary democracy (1982-2007)"
+- **Thesis:** "Many Forests, Convergent Politics. Forest Genetics, Terrestrial Ecology, and the Environmentalist Movement in the Making of Spanish Contemporary Democracy (1943–2007)"
 
 ### M.Sc. in History and Philosophy of Science, Cum Laude
-- **Institution:** Utrecht University (the Netherlands)
+- **Institution:** Utrecht University
 - **Year:** 2020
 - **Thesis:** "To be a molecular scientist. The negotiation of epistemic and social virtues in 1970s *Nature*’s marketplace"
 
 ### M.Sc. in Neuroscience, High Honours
-- **Institution:** Université de Strasbourg (France)
+- **Institution:** Université de Strasbourg
 - **Year:** 2016
 - **Thesis:** "Limbic morphology and emotion in Borderline Personality Disorder"
 
@@ -39,12 +39,11 @@ title: "Curriculum Vitae"
 
 ## Selected Research Experience
 ### Working Group Member
-- **Project:** "Exchange Zones in the Production and Regulation of Technoscience in the Iberian
-Peninsula: Academics, Activists and the Industry, 1930s-1990s (EXCHANGESCI)", Ministerio de Ciencia, Innovación y Universidades (Spain)
+- **Project:** "Exchange Zones in the Production and Regulation of Technoscience in the Iberian Peninsula: Academics, Activists and the Industry, 1930s-1990s (EXCHANGESCI)", Ministerio de Ciencia, Innovación y Universidades (Spain)
 - **Duration:** January 2025 - ongoing
 
 ### Visiting Researcher
-- **Institution:** Institut d'Història de la Ciència (iHC), Universitat Autònoma de Barcelona (Spain)
+- **Institution:** Institut d'Història de la Ciència (iHC), Universitat Autònoma de Barcelona
 - **Duration:** January - July 2024
 - **Description:** Archival work and interviews, presentation of preliminary results to the iHC community
 
@@ -57,27 +56,27 @@ Peninsula: Academics, Activists and the Industry, 1930s-1990s (EXCHANGESCI)", Mi
 - **Bautista Perpinyà, M.** & Pence, C.H. (2023) "David Sepkoski’s *Catastrophic Thinking*," *BJPS Review of Books*. <a href="https://www.thebsps.org/reviewofbooks/perpinya-pence-on-sepkoski/" target="_blank">https://www.thebsps.org/reviewofbooks/perpinya-pence-on-sepkoski/</a>
 
 ## Papers and Organised Sessions at Conferences
-- European Society for the History of Science/History of Science Society Joint Meeting, Edinburg 2026.
-  - Convenor of Session 'Activist Epistemics and Artefacts' with Laia Iturrizaga-Zurita and Jaume Valentines-Álvarez.
-- European Rural History Organisation (EURHO), Coimbra 2025.
-- International Society for the History, Philosophy, and Social Studies of Biology (ISHPSSB), Porto 2025.
-- Asociación de Historia Contemporánea, València 2025.
-- Sociedad Española de Historia de las Ciencias y de las Técnicas, Xixón 2025.
-- Société de philosophie du Québec, Québec City 2025.
-- Gewina Woudschoten Conference, Utrecht 2024.
-- World Congress of Environmental History, Oulu 2024.
-- European Society for the History of Science, Barcelona 2024, Brussels 2022.
-  - Convenor of Session 'Science in political transitions' with Judit Gil-Farrero (ESHS2024).
-- Red Española de Historia Ambiental-RUEDHA, Granada 2024, Granada 2022.
-  - Convenor of Session 'Historia ambiental e Historia de la ciencia: tensiones e hibridaciones' with Carolina Granado (RUEDHA2024).
+- European Society for the History of Science/History of Science Society Joint Meeting, Edinburg 2026
+  - Convenor of Session 'Activist Epistemics and Artefacts' with Laia Iturrizaga-Zurita and Jaume Valentines-Álvarez
+- European Rural History Organisation (EURHO), Coimbra 2025
+- International Society for the History, Philosophy, and Social Studies of Biology (ISHPSSB), Porto 2025
+- Asociación de Historia Contemporánea, València 2025
+- Sociedad Española de Historia de las Ciencias y de las Técnicas, Xixón 2025
+- Société de philosophie du Québec, Québec City 2025
+- Gewina Woudschoten Conference, Utrecht 2024
+- World Congress of Environmental History, Oulu 2024
+- European Society for the History of Science, Barcelona 2024, Brussels 2022
+  - Convenor of Session 'Science in political transitions' with Judit Gil-Farrero (ESHS2024)
+- Red Española de Historia Ambiental-RUEDHA, Granada 2024, Granada 2022
+  - Convenor of Session 'Historia ambiental e Historia de la ciencia: tensiones e hibridaciones' with Carolina Granado (RUEDHA2024)
 
 ## Invited Lectures
-- Closing address, **V Jornada d'Historiografia Local: "Història ambiental i comunitats locals**, Centres d'Estudis de Parla Catalana (CCEPC), Institut Ramon Muntaner (IRMU), Institut d'Estudis Ilerdencs (IEI), Diputació de Lleida, 2025.
-- “Science and Action: Roundtable on the history and future of the relationship between research and management at La Garrotxa Volcanic Zone Natural Park," **La Garrotxa Volcanic Zone Natural Park**, Girona (Spain), 2024
-- "¿Qué es una publicación científica? Reflexiones históricas, filosóficas, y críticas," Jornadas sobre la carrera investigadora, **Sociedad Española de Bioquímica y Biología Molecular**, Madrid (Spain), 2021
-- "Ciencia Abierta: Globalidad y Localidad," IV Convención Científica Internacional. Sistemas latinoamericanos de indexación: ética o estética, **Universidad Técnica de Manabí**, Manabí (Ecuador), 2020
-- "The Journal of Trial and Error meets the Early-Career Swiss Society for Neuroscience," Second Swiss Early-career Researchers Symposium, **University of Bern**, Bern (Switzerland), 2020
-- "The Journal of Trial and Error. Publishing science in the making: trying and erring in the age of open science," Annual Graduate Student Symposium, **University of Cambridge**, Cambridge (United Kingdom), 2019
+- Closing address, **V Jornada d'Historiografia Local: "Història ambiental i comunitats locals**, Centres d'Estudis de Parla Catalana (CCEPC), Institut Ramon Muntaner (IRMU), Institut d'Estudis Ilerdencs (IEI), Diputació de Lleida, 2025
+- “Science and Action: Roundtable on the history and future of the relationship between research and management at La Garrotxa Volcanic Zone Natural Park," **La Garrotxa Volcanic Zone Natural Park**, Girona, 2024
+- "¿Qué es una publicación científica? Reflexiones históricas, filosóficas, y críticas," Jornadas sobre la carrera investigadora, **Sociedad Española de Bioquímica y Biología Molecular**, Madrid, 2021
+- "Ciencia Abierta: Globalidad y Localidad," IV Convención Científica Internacional. Sistemas latinoamericanos de indexación: ética o estética, **Universidad Técnica de Manabí**, Manabí, 2020
+- "The Journal of Trial and Error meets the Early-Career Swiss Society for Neuroscience," Second Swiss Early-career Researchers Symposium, **University of Bern**, Bern, 2020
+- "The Journal of Trial and Error. Publishing science in the making: trying and erring in the age of open science," Annual Graduate Student Symposium, **University of Cambridge**, Cambridge, 2019
 
 ## Teaching Experience
 ### Internship Coordinator
@@ -127,7 +126,6 @@ Peninsula: Academics, Activists and the Industry, 1930s-1990s (EXCHANGESCI)", Mi
 ### Co-Organizer, Integrating the History and Philosophy of Biodiversity. Narratives of Diversity, Extinction, Conflict and Value, 2023
 - **Institution:** UCLouvain and the Royal Belgian Institute of Natural Sciences
 - Co-organised with Charles H. Pence
-- <a href="https://pencelab.be/events/biodiversity-2023/" target="_blank">https://pencelab.be/events/biodiversity-2023/</a>
 
 ## Awards and Honours
 - 'Aspirant' Doctoral Fellow of the Belgian National Science Fund (FNRS). 4-year fully-funded scholarship
