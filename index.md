@@ -14,7 +14,7 @@ title: "Curriculum Vitae"
 </table>
 
 ## Education
-### Ph.D. in Philosophy
+### Ph.D. Candidate in Philosophy
 - **Institution:** Université catholique de Louvain (Belgium)
 - **Projected graduation:** 2026
 - **Thesis:** "The success and deradicalisation of ecology. Forest sciences, environmentalism, and values in the making of Spanish contemporary democracy (1982-2007)"
