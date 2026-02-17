@@ -25,22 +25,6 @@ title: "Curriculum Vitae"
 ### M.Sc. in Neuroscience, High Honours (Université de Strasbourg, 2016)
 **Thesis:** "Limbic morphology and emotion in Borderline Personality Disorder"
 
-## Education
-### Ph.D. Candidate in Philosophy
-- **Institution:** Université catholique de Louvain
-- **Projected graduation:** 2026
-- **Thesis:** "Many Forests, Convergent Politics. Forest Genetics, Terrestrial Ecology, and the Environmentalist Movement in the Making of Spanish Contemporary Democracy (1943–2007)"
-
-### M.Sc. in History and Philosophy of Science, Cum Laude
-- **Institution:** Utrecht University
-- **Year:** 2020
-- **Thesis:** "To be a molecular scientist. The negotiation of epistemic and social virtues in 1970s *Nature*’s marketplace"
-
-### M.Sc. in Neuroscience, High Honours
-- **Institution:** Université de Strasbourg
-- **Year:** 2016
-- **Thesis:** "Limbic morphology and emotion in Borderline Personality Disorder"
-
 ## Research Interests
 - History of Ecology, Forestry, and the Environmentalist Movement
 - Science during Francoism, Political Transition, and Democratic Consolidation
