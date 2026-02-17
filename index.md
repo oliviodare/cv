@@ -16,6 +16,7 @@ title: "Curriculum Vitae"
 ## Education
 ### Ph.D. Candidate in Philosophy (Université catholique de Louvain)
 **Projected graduation:** 2026
+
 **Thesis:** "Many Forests, Convergent Politics. Forest Genetics, Terrestrial Ecology, and the Environmentalist Movement in the Making of Spanish Contemporary Democracy (1943–2007)"
 
 ### M.Sc. in History and Philosophy of Science, Cum Laude (Utrecht University, 2020)
