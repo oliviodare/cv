@@ -58,6 +58,7 @@ Peninsula: Academics, Activists and the Industry, 1930s-1990s (EXCHANGESCI)", Mi
 
 ## Papers and Organised Sessions at Conferences
 - European Society for the History of Science/History of Science Society Joint Meeting, Edinburg 2026.
+  - Convenor of Session 'Activist Epistemics and Artefacts' with Laia Iturrizaga-Zurita and Jaume Valentines-Álvarez
 - European Rural History Organisation (EURHO), Coimbra 2025.
 - International Society for the History, Philosophy, and Social Studies of Biology (ISHPSSB), Porto 2025.
 - Asociación de Historia Contemporánea, València 2025.
@@ -66,7 +67,9 @@ Peninsula: Academics, Activists and the Industry, 1930s-1990s (EXCHANGESCI)", Mi
 - Gewina Woudschoten Conference, Utrecht 2024.
 - World Congress of Environmental History, Oulu 2024.
 - European Society for the History of Science, Barcelona 2024, Brussels 2022.
-- Red Española de Historia Ambiental-RUED(H)A, Granada 2024, Granada 2022.
+  - Convenor of Session 'Science in political transitions' with Judit Gil-Farrero (ESHS2024)
+- Red Española de Historia Ambiental-RUEDHA, Granada 2024, Granada 2022
+  - Convenor of Session 'Historia ambiental e Historia de la ciencia: tensiones e hibridaciones' with Carolina Granado (RUEDHA2024)
 
 ## Invited Lectures
 - Closing address, **V Jornada d'Historiografia Local: "Història ambiental i comunitats locals**, Centres d'Estudis de Parla Catalana (CCEPC), Institut Ramon Muntaner (IRMU), Institut d'Estudis Ilerdencs (IEI), Diputació de Lleida, 2025.
