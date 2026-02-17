@@ -15,6 +15,7 @@ title: "Curriculum Vitae"
 
 ## Education
 ### PhD Candidate in Philosophy (Université catholique de Louvain)
+FNRS Aspirant Doctoral Fellow (4-year fully funded scholarship)<br>
 **Thesis:** "Many Forests, Convergent Politics. Forest Genetics, Terrestrial Ecology, and the Environmentalist Movement in the Making of Spanish Contemporary Democracy (1943–2007)"
 
 ### MSc in History and Philosophy of Science, Cum Laude (Utrecht University, 2020)
