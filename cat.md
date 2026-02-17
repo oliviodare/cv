@@ -132,5 +132,5 @@ title: "Curriculum Vitae"
 ## Llengües
 - **Català:** Nadiu
 - **Espanyol:** Nadiu
-- **Anglès:** Professional complet
+- **Anglès:** Professional
 - **Francès:** Intermedi avançat
