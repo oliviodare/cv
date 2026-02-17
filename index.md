@@ -30,7 +30,7 @@ title: "Curriculum Vitae"
 - **Thesis:** "Limbic morphology and emotion in Borderline Personality Disorder"
 
 ## Research Interests
-- History of Ecology, Forestry, Environmentalist Movement, and Activism
+- History of Ecology, Forestry, and the Environmentalist Movement
 - Science during Francoism, Political Transition, and Democratic Consolidation
 - History of Science
 - Environmental History
