@@ -48,11 +48,6 @@ Peninsula: Academics, Activists and the Industry, 1930s-1990s (EXCHANGESCI)", Mi
 - **Duration:** January - July 2024
 - **Description:** Archival work and interviews, presentation of preliminary results to the iHC community
 
-### Master Thesis Student
-- **Institution:** Descartes Centre for the History and Philosophy of the Sciences and the Humanities, Utrecht University
-- **Duration:** September 2019 - December 2020
-- **Thesis:** "To be a molecular scientist. The negotiation of epistemic and social virtues in 1970s *Nature*’s marketplace"
-
 ## Publications
 ### Articles
 - Devine, S., **Bautista Perpinyà, M.**, Delrue, V., Gaillard, S., Jorna, T. F. K., Meer, M. van der, Millett, L., Pozzebon, C., & Visser, J. (2020). "Science Fails. Let’s Publish" *Journal of Trial & Error*, 1(1). <a href="https://doi.org/10.36850/ed1" target="_blank">https://doi.org/10.36850/ed1</a>
@@ -61,20 +56,17 @@ Peninsula: Academics, Activists and the Industry, 1930s-1990s (EXCHANGESCI)", Mi
 ### Book reviews
 - **Bautista Perpinyà, M.** & Pence, C.H. (2023) "David Sepkoski’s *Catastrophic Thinking*," *BJPS Review of Books*. <a href="https://www.thebsps.org/reviewofbooks/perpinya-pence-on-sepkoski/" target="_blank">https://www.thebsps.org/reviewofbooks/perpinya-pence-on-sepkoski/</a>
 
-## Conferences
-- "From Genetic Improvement to Biodiversity Conservation: Seed Orchards and Environmental Challenges in Spain in the Dismantling of the Forest Engineering Regime (1966-1999)," 7th Biennial Conference of the **European Rural History Organisation (EURHO)**, Coimbra (Portugal), 2025
-- "Whose scientific mandates should we nourish? On representational pluralism in the history of ecology and environmentalism," **International Society for the History, Philosophy, and Social Studies of Biology (ISHPSSB)**, Porto (Portugal), 2025
-- "Del *Llibre Blanc* al *Inventari Ecològic i Forestal de Catalunya*: La cultura política de ecología sinóptica y la construcción de consentimiento hacia el nacionalismo neoliberal (1972-1989)," XVII Congreso de la **Asociación de Historia Contemporánea**, València (Spain), 2025
-- "El *Fer País* de la ecología sinóptica. Nacionalismo institucional y productividad racional frente al movimiento ecologista en Cataluña (1972-1989)," XV Congreso de la **Sociedad Española de Historia de las Ciencias y de las Técnicas**, Xixón (Spain), 2025
-- "Whose scientific mandates should we nourish? On representational pluralism in ecology (its history and today)," **Congrès de 2025 de la Société de philosophie du Québec**, Québec City (Canada), 2025.
-- "Databases, drought, Catalan nationalism and European scientific environmentalism in the Spanish democracy (1988-2004)," 11th Conference of the **European Society for the History of Science**, Barcelona (Spain), 2024
-- "(Inter)nationalism in the making of the Ecological and Forest Inventory of Catalonia," 10th **Gewina Woudschoten Conference**, Utrecht (the Netherlands), 2024
-- "Historia ambiental e Historia de la Ciencia: tensiones e hibridaciones interdisciplinares para una academia comprometida," IV Congreso de la **Red Española de Historia Ambiental-RUED(H)A**, Granada (Spain), 2024
-- "Reading, listening, and reading. A collective walk on how we read and listen to the environment, history, and each other," **World Congress of Environmental History**, Oulu (Finland), 2024
-- "Scientific forestry in post-Franco Spain: making 'better' trees at a national network of experimental stations," 9th **Gewina PhD Conference in History of Science and Humanities**, Soeterbeek (the Netherlands), 2023
-- "'Straight trunks' and 'original biocenosis': production and conservation aims of Spanish foresters during the last third of the twentieth century at the Instituto Nacional para la Conservación de la Naturaleza," 10th Conference of the **European Society for the History of Science**, Brussels (Belgium), 2022
-- "Descentralizando la historia de la biodiversidad: el conocimiento científico y su co-construcción con políticas nacionales ambientales en el ICONA," III Congreso de la **Red Española de Historia Ambiental-RUED(H)A**, Granada (Spain), 2022
-- "'If You Need a New Microscope – Why Purchase an Old One?' Scientific Advertisements in *Nature* and Their Role in the Printed Forum of the Laboratory Research Community," **British Society for the History of Science**, 2021
+## Papers and Organised Sessions at Conferences
+- European Society for the History of Science/History of Science Society Joint Meeting, Edinburg 2026.
+- European Rural History Organisation (EURHO), Coimbra 2025.
+- International Society for the History, Philosophy, and Social Studies of Biology (ISHPSSB), Porto 2025.
+- Asociación de Historia Contemporánea, València 2025.
+- Sociedad Española de Historia de las Ciencias y de las Técnicas, Xixón 2025.
+- Société de philosophie du Québec, Québec City 2025.
+- Gewina Woudschoten Conference, Utrecht 2024.
+- World Congress of Environmental History, Oulu 2024.
+- European Society for the History of Science, Barcelona 2024, Brussels 2022.
+- Red Española de Historia Ambiental-RUED(H)A, Granada 2024, Granada 2022.
 
 ## Invited Lectures
 - Closing address, **V Jornada d'Historiografia Local: "Història ambiental i comunitats locals**, Centres d'Estudis de Parla Catalana (CCEPC), Institut Ramon Muntaner (IRMU), Institut d'Estudis Ilerdencs (IEI), Diputació de Lleida, 2025.
