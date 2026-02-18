@@ -45,7 +45,7 @@ Recerca d’arxiu, entrevistes i presentació de resultats preliminars a la comu
 - ISHPSSB. International Society for the History, Philosophy, and Social Studies of Biology (Porto 2025).
 - AHC. Asociación de Historia Contemporánea (València 2025).
 - SEHCT. Sociedad Española de Historia de las Ciencias y de las Técnicas (Xixón 2025).
-- SPQ. Société de philosophie du Québec (Ciutat de Quebec 2025).
+- SPQ. Société de philosophie du Québec (Québec City 2025).
 - Gewina Woudschoten Conference (Utrecht 2024).
 - WCEH. World Congress of Environmental History (Oulu 2024).
 - ESHS. European Society for the History of Science (Barcelona 2024, Brussel·les 2022).
