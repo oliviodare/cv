@@ -15,8 +15,8 @@ title: "Curriculum Vitae"
 
 ## Education
 ### PhD Candidate in Philosophy (Université catholique de Louvain)
-FNRS Aspirant Doctoral Fellow (4-year fully funded scholarship).  
-Diss.: "Many Forests, Convergent Politics. Forest Genetics, Terrestrial Ecology, and the Environmentalist Movement in the Making of Spanish Contemporary Democracy (1943–2007)".
+- FNRS Aspirant Doctoral Fellow (4-year fully funded scholarship).
+- Diss.: "Many Forests, Convergent Politics. Forest Genetics, Terrestrial Ecology, and the Environmentalist Movement in the Making of Spanish Contemporary Democracy (1943–2007)".
 
 ### MSc in History and Philosophy of Science, Cum Laude (Utrecht University, 2020)
 - Diss.: "To be a molecular scientist. The negotiation of epistemic and social virtues in 1970s *Nature*’s marketplace".
@@ -61,23 +61,23 @@ Diss.: "Many Forests, Convergent Politics. Forest Genetics, Terrestrial Ecology,
 
 ## Teaching Experience
 ### Internship Coordinator, _Journal of Trial and Error_, 2021
-Designed internship framework and assessment for MSc HPS student (Utrecht University).
+- Designed internship framework and assessment for MSc HPS student (Utrecht University).
 
 ### Workshop Instructor, Utrecht University (Life Sciences Faculty), 2021–2022
-Designed and delivered workshops on publication ethics, outreach, and open science (500+ MSc students).
+- Designed and delivered workshops on publication ethics, outreach, and open science (500+ MSc students).
 
 ### Student Supervisor, Universität Freiburg, 2016
-Supervised undergraduates; taught neuroimaging sectioning techniques.
+- Supervised undergraduates; taught neuroimaging sectioning techniques.
 
 ## Editorial Work
 ### Co-founder, *Journal of Trial and Error*, 2018–2022
-Diamond Open Access journal. Developed editorial policy, coordinated design, institutional outreach.
+- Diamond Open Access journal. Developed editorial policy, coordinated design, institutional outreach.
 
 ### Editorial Assistant, ARTECHNE ERC Project (Utrecht University), 2021
-Edited two volumes: _Histories of Conservation and Art History in Modern Europe_ (Routledge) and _The Making of Technique in the Art_ (Brepols).
+- Edited two volumes: _Histories of Conservation and Art History in Modern Europe_ (Routledge) and _The Making of Technique in the Art_ (Brepols).
 
 ### Assistant Managing Editor, Journal for the History of Knowledge, 2020
-Manuscript processing, reviewer coordination, editorial management.
+- Manuscript processing, reviewer coordination, editorial management.
 
 ## Professional Activities
 - Co-Organizer, Jornadas CIMETEC, Young Iberian Conference in History of Science, Medicine & Technology (2026)
@@ -86,7 +86,7 @@ Manuscript processing, reviewer coordination, editorial management.
 - Co-Organizer, International workshop 'Integrating the History and Philosophy of Biodiversity: Narratives of Diversity, Extinction, Conflict and Value' (UCLouvain & Royal Belgian Institute of Natural Sciences, 2023)
 
 ## Research Areas
-History of Ecology and Forestry; Environmentalism and Political Transitions; Environmental History; Values in Science; Open Science.
+- History of Ecology and Forestry; Environmentalism and Political Transitions; Environmental History; Values in Science; Open Science.
   
 ## Languages
 - **Catalan:** Native
