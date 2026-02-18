@@ -15,21 +15,21 @@ title: "Curriculum Vitae"
 
 ## Educació
 ### Doctorand en Filosofia (Université catholique de Louvain)
-Aspirant FNRS (beca doctoral de 4 anys).  
-Tesi: "Many Forests, Convergent Politics. Forest Genetics, Terrestrial Ecology, and the Environmentalist Movement in the Making of Spanish Contemporary Democracy (1943–2007)".
+- Aspirant FNRS (beca doctoral de 4 anys).  
+- Tesi: "Many Forests, Convergent Politics. Forest Genetics, Terrestrial Ecology, and the Environmentalist Movement in the Making of Spanish Contemporary Democracy (1943–2007)".
 
 ### Màster en Història i Filosofia de la Ciència, Cum Laude (Utrecht University, 2020)
-Tesi: "To be a molecular scientist. The negotiation of epistemic and social virtues in 1970s *Nature*’s marketplace".
+- Tesi: "To be a molecular scientist. The negotiation of epistemic and social virtues in 1970s *Nature*’s marketplace".
 
 ### Màster en Neurociència, High Honours (Université de Strasbourg, 2016)
-Tesi: "Limbic morphology and emotion in Borderline Personality Disorder".
+- Tesi: "Limbic morphology and emotion in Borderline Personality Disorder".
 
 ## Projectes de Recerca
 ### Membre del grup de treball, EXCHANGESCI (Ministerio de Ciencia, Espanya), 2025–
-Projecte sobre les “zones d’intercanvi” entre acadèmia, activisme i indústria en la tecnociència ibèrica (1930–1990).
+- Projecte sobre les “zones d’intercanvi” entre acadèmia, activisme i indústria en la tecnociència ibèrica (1930–1990).
 
 ### Investigador visitant, Institut d’Història de la Ciència (UAB), 2024
-Recerca d’arxiu, entrevistes i presentació de resultats preliminars a la comunitat de l’iHC.
+- Treball d’arxiu, entrevistes i presentació de resultats preliminars a la comunitat de l’iHC.
 
 ## Publicacions
 ### Articles
@@ -61,23 +61,23 @@ Recerca d’arxiu, entrevistes i presentació de resultats preliminars a la comu
 
 ## Experiència docent
 ### Coordinador de pràctiques, *Journal of Trial and Error*, 2021
-Disseny del marc de pràctiques i avaluació per a un estudiant del màster en HPS (Utrecht University).
+- Disseny del marc de pràctiques i avaluació per a un estudiant del màster en HPS (Utrecht University).
 
 ### Instructor de tallers, Utrecht University (Facultat de Ciències de la Vida), 2021–2022
-Disseny i facilitació de tallers sobre ètica de la publicació, divulgació i ciència oberta (més de 500 estudiants de màster).
+- Disseny i facilitació de tallers sobre ètica de la publicació, divulgació i ciència oberta (més de 500 estudiants de màster).
 
 ### Supervisor d’estudiants, Universität Freiburg, 2016
-Supervisió d’estudiants de grau; ensenyament de tècniques de seccionament en neuroimatge.
+- Supervisió d’estudiants de grau; ensenyament de tècniques de seccionament en neuroimatge.
 
 ## Treball editorial
 ### Cofundador, *Journal of Trial and Error*, 2018–2022
-Revista Diamond Open Access. Desenvolupament de la política editorial, coordinació del disseny i projecció institucional.
+- Revista Diamond Open Access. Desenvolupament de la política editorial, coordinació del disseny i projecció institucional.
 
 ### Assistent editorial, projecte ERC ARTECHNE (Utrecht University), 2021
-Edició de dos volums: *Histories of Conservation and Art History in Modern Europe* (Routledge) i *The Making of Technique in the Art* (Brepols).
+- Edició de dos volums: *Histories of Conservation and Art History in Modern Europe* (Routledge) i *The Making of Technique in the Art* (Brepols).
 
 ### Assistant Managing Editor, *Journal for the History of Knowledge*, 2020
-Gestió de manuscrits, coordinació amb revisors i suport editorial.
+- Gestió de manuscrits, coordinació amb revisors i suport editorial.
 
 ## Activitats professionals
 - Coorganitzador, Jornades CIMETEC de Joves Investigadores en Història de la Ciència, la Medicina i la Tecnologia (2026)
@@ -86,7 +86,8 @@ Gestió de manuscrits, coordinació amb revisors i suport editorial.
 - Coorganitzador, International workshop 'Integrating the History and Philosophy of Biodiversity: Narratives of Diversity, Extinction, Conflict and Value' (UCLouvain, Royal Belgian Institute of Natural Sciences, 2023).
 
 ## Àrees de recerca
-Història de l’ecologia i la enginyeria ‘de montes’; ecologisme i transicions polítiques; història ambiental; valors en la ciència; ciència oberta.
+- Història de l’ecologia i la enginyeria ‘de montes’; ecologisme i transicions polítiques; història ambiental; valors en la ciència; ciència oberta.
+
 ## Llengües
 - **Català:** Nadiu  
 - **Espanyol:** Nadiu  
