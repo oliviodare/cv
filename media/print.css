@@ -1,3 +1,14 @@
+ul {
+    list-style: none;        /* removes bullets */
+    padding-left: 0;         /* removes default indent */
+}
+
+ul li {
+    padding-left: 1.5em;     /* creates hanging indent space */
+    text-indent: -1.5em;     /* pulls first line back */
+    margin-bottom: 0.0em;    /* spacing between entries */
+}
+
 body {
     font-family: Times New Roman, serif;
     line-height: 1.4;
@@ -6,10 +17,23 @@ body {
     padding-bottom: 1in; /* Add padding to the bottom to avoid overlap */
 }
 
-h2, h3 {
+/*h2, h3 {
     line-height: 1.1;
     margin-bottom: -0.2em;
+}*/
+
+h2, h3 {
+    line-height: 1.1;
+    margin-top: 0.6em;
+    margin-bottom: 0.15em;
 }
+
+h3 + p,
+h3 + ul,
+h3 + table {
+    margin-top: 0.1em;
+}
+
 
 .container {
     width: 100%;

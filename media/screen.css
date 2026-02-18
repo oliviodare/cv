@@ -1,3 +1,14 @@
+ul {
+    list-style: none;        /* removes bullets */
+    padding-left: 0;         /* removes default indent */
+}
+
+ul li {
+    padding-left: 1.5em;     /* creates hanging indent space */
+    text-indent: -1.5em;     /* pulls first line back */
+    margin-bottom: 0.0em;    /* spacing between entries */
+}
+
 body {
     font-family: Arial, sans-serif;
     line-height: 1.8;
