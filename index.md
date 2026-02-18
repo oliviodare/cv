@@ -16,13 +16,13 @@ title: "Curriculum Vitae"
 ## Education
 ### PhD Candidate in Philosophy (Université catholique de Louvain)
 FNRS Aspirant Doctoral Fellow (4-year fully funded scholarship).  
-**Thesis:** "Many Forests, Convergent Politics. Forest Genetics, Terrestrial Ecology, and the Environmentalist Movement in the Making of Spanish Contemporary Democracy (1943–2007)".
+Diss.: "Many Forests, Convergent Politics. Forest Genetics, Terrestrial Ecology, and the Environmentalist Movement in the Making of Spanish Contemporary Democracy (1943–2007)".
 
 ### MSc in History and Philosophy of Science, Cum Laude (Utrecht University, 2020)
-**Thesis:** "To be a molecular scientist. The negotiation of epistemic and social virtues in 1970s *Nature*’s marketplace".
+Diss.: "To be a molecular scientist. The negotiation of epistemic and social virtues in 1970s *Nature*’s marketplace".
 
 ### MSc in Neuroscience, High Honours (Université de Strasbourg, 2016)
-**Thesis:** "Limbic morphology and emotion in Borderline Personality Disorder".
+Diss.: "Limbic morphology and emotion in Borderline Personality Disorder".
 
 ## Research Projects
 ### Working Group Member, EXCHANGESCI (Ministerio de Ciencia, Spain), 2025–
@@ -40,19 +40,16 @@ Archival research, interviews, and presentation of preliminary findings to the i
 - **Bautista Perpinyà, M.** & Pence, C.H. (2023) "David Sepkoski’s *Catastrophic Thinking*," *BJPS Review of Books*. <a href="https://www.thebsps.org/reviewofbooks/perpinya-pence-on-sepkoski/" target="_blank">https://www.thebsps.org/reviewofbooks/perpinya-pence-on-sepkoski/</a>.
 
 ## Papers and Organised Sessions at Conferences
-- European Society for the History of Science/History of Science Society Joint Meeting, Edinburg 2026.
-  - Convenor of Session 'Activist Epistemics and Artefacts' with L. Iturrizaga-Zurita and J. Valentines-Álvarez.
-- European Rural History Organisation (EURHO), Coimbra 2025.
-- International Society for the History, Philosophy, and Social Studies of Biology (ISHPSSB), Porto 2025.
-- Asociación de Historia Contemporánea, València 2025.
-- Sociedad Española de Historia de las Ciencias y de las Técnicas, Xixón 2025.
-- Société de philosophie du Québec, Québec City 2025.
-- Gewina Woudschoten Conference, Utrecht 2024.
-- World Congress of Environmental History, Oulu 2024.
-- European Society for the History of Science, Barcelona 2024, Brussels 2022.
-  - Convenor of Session 'Science in political transitions' with J. Gil-Farrero (ESHS2024).
-- Red Española de Historia Ambiental-RUEDHA, Granada 2024, Granada 2022.
-  - Convenor of Session 'Historia ambiental e Historia de la ciencia: tensiones e hibridaciones' with C. Granado (RUEDHA2024).
+ESHS/HSS. European Society for the History of Science/History of Science Society (Edinburg 2026).  
+EURHO. European Rural History Organisation (Coimbra 2025).  
+ISHPSSB. International Society for the History, Philosophy, and Social Studies of Biology (Porto 2025).  
+AHC. Asociación de Historia Contemporánea (València 2025).  
+SEHCT. Sociedad Española de Historia de las Ciencias y de las Técnicas (Xixón 2025).  
+SPQ. Société de philosophie du Québec (Québec City 2025).  
+Gewina Woudschoten Conference (Utrecht 2024).  
+WCEH. World Congress of Environmental History (Oulu 2024).  
+ESHS. European Society for the History of Science (Barcelona 2024, Brussels 2022).  
+RUEDHA. Red Española de Historia Ambiental (Granada 2024, Granada 2022)  
 
 ## Invited Lectures
 - Closing address, **V Jornada d'Historiografia Local: Història ambiental i comunitats locals**, Centres d'Estudis de Parla Catalana (CCEPC), Institut Ramon Muntaner (IRMU), Institut d'Estudis Ilerdencs (IEI), Diputació de Lleida, 2025.
@@ -74,7 +71,7 @@ Supervised undergraduates; taught neuroimaging sectioning techniques.
 
 ## Editorial Work
 ### Co-founder, *Journal of Trial and Error*, 2018–2022
-Diamond Open Access journal on failure in science. Developed editorial policy, coordinated design, institutional outreach.
+Diamond Open Access journal. Developed editorial policy, coordinated design, institutional outreach.
 
 ### Editorial Assistant, ARTECHNE ERC Project (Utrecht University), 2021
 Edited two volumes: _Histories of Conservation and Art History in Modern Europe_ (Routledge) and _The Making of Technique in the Art_ (Brepols).
@@ -83,20 +80,10 @@ Edited two volumes: _Histories of Conservation and Art History in Modern Europe_
 Manuscript processing, reviewer coordination, editorial management.
 
 ## Professional Activities
-### Co-Organizer, Jornadas CIMETEC (Young Iberian Conference in History of Science, Medicine & Technology)
-Organised with A. Álvarez Laorden, H. Isern Alsina, P. L. Pireddu, M. Mundi López, S. Pérez Criado. Supported by SCHCT, SEHM, CIUHCT, iHC-UAB, IEC.
-
-### Co-Organizer, 10th PhD Conference in History of Science, Medicine, and Humanities in Belgium and the Netherlands: Beyond Switching Plastic Straws
-Belgian-Dutch Society for the History of Science and Universities (Gewina) & Utrecht University, April 2025.  
-Co-organised with M. Gelderblom (Utrecht University) and M. van der Meer (Erasmus University Rotterdam).
-
-### Co-Organizer, Disciplinary Crossroads: History of Science and Environmental History
-Institut d’Història de la Ciència (Universitat Autònoma de Barcelona), 2024.  
-Co-organised with C. Granado and H. Isern.
-
-### Co-Organizer, Integrating the History and Philosophy of Biodiversity: Narratives of Diversity, Extinction, Conflict and Value
-UCLouvain & Royal Belgian Institute of Natural Sciences, 2023.  
-Co-organised with C. H. Pence.
+- Co-Organizer, Jornadas CIMETEC, Young Iberian Conference in History of Science, Medicine & Technology (2026)
+- Co-Organizer, 10th PhD Belgian-Dutch Conference in the History of Science, Medicine, and the Humanities: Beyond Switching Plastic Straws (Gewina, 2025)
+- Co-Organizer, International workshop Disciplinary Crossroads: History of Science and Environmental History (Institut d’Història de la Ciència-UAB, 2024)
+- Co-Organizer, International workshop Integrating the History and Philosophy of Biodiversity: Narratives of Diversity, Extinction, Conflict and Value (UCLouvain & Royal Belgian Institute of Natural Sciences, 2023)
 
 ## Research Areas
 History of Ecology and Forestry; Environmentalism and Political Transitions; Environmental History; Values in Science; Open Science.
