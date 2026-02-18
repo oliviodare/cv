@@ -39,8 +39,8 @@ Investigación de archivo, entrevistas y presentación de resultados preliminare
 ### Reseñas de libros
 - **Bautista Perpinyà, M.** & Pence, C.H. (2023). "David Sepkoski’s *Catastrophic Thinking*," *BJPS Review of Books*. <a href="https://www.thebsps.org/reviewofbooks/perpinya-pence-on-sepkoski/" target="_blank">https://www.thebsps.org/reviewofbooks/perpinya-pence-on-sepkoski/</a>.
 
-### Comunicaciones y sesiones organizadas en congresos
-- ESHS/HSS. European Society for the History of Science / History of Science Society (Edimburgo 2026).
+### Comunicaciones en congresos y sesiones coordinadas
+- ESHS/HSS. European Society for the History of Science / History of Science Society (Edimburgo 2026, coordinador de sesión).
 - EURHO. European Rural History Organisation (Coímbra 2025).
 - ISHPSSB. International Society for the History, Philosophy, and Social Studies of Biology (Oporto 2025).
 - AHC. Asociación de Historia Contemporánea (València 2025).
@@ -48,8 +48,8 @@ Investigación de archivo, entrevistas y presentación de resultados preliminare
 - SPQ. Société de philosophie du Québec (Québec City 2025).
 - Gewina Woudschoten Conference (Utrecht 2024).
 - WCEH. World Congress of Environmental History (Oulu 2024).
-- ESHS. European Society for the History of Science (Barcelona 2024, Bruselas 2022).
-- RUEDHA. Red Española de Historia Ambiental (Granada 2024, Granada 2022).
+- ESHS. European Society for the History of Science (Barcelona 2024, coordinador de sesión; Bruselas 2022).
+- RUEDHA. Red Española de Historia Ambiental (Granada 2024, coordinador de sesión; Granada 2022).
 
 ### Conferencias invitadas
 - Conferencia de clausura, **V Jornada d'Historiografia Local: Història ambiental i comunitats locals**, Centres d'Estudis de Parla Catalana (CCEPC), Institut Ramon Muntaner (IRMU), Institut d'Estudis Ilerdencs (IEI), Diputació de Lleida, 2025.

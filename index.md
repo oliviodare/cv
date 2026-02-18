@@ -39,17 +39,17 @@ Diss.: "Many Forests, Convergent Politics. Forest Genetics, Terrestrial Ecology,
 ### Book reviews
 - **Bautista Perpinyà, M.** & Pence, C.H. (2023) "David Sepkoski’s *Catastrophic Thinking*," *BJPS Review of Books*. <a href="https://www.thebsps.org/reviewofbooks/perpinya-pence-on-sepkoski/" target="_blank">https://www.thebsps.org/reviewofbooks/perpinya-pence-on-sepkoski/</a>.
 
-### Papers and Organised Sessions at Conferences
-- ESHS/HSS. European Society for the History of Science/History of Science Society (Edinburg 2026).
+### Conference Presentations and Sessions Organized
+- ESHS/HSS. European Society for the History of Science/History of Science Society (Edinburgh 2026, session organizer).
 - EURHO. European Rural History Organisation (Coimbra 2025).
 - ISHPSSB. International Society for the History, Philosophy, and Social Studies of Biology (Porto 2025).
 - AHC. Asociación de Historia Contemporánea (València 2025).
 - SEHCT. Sociedad Española de Historia de las Ciencias y de las Técnicas (Xixón 2025).
 - SPQ. Société de philosophie du Québec (Québec City 2025).
 - Gewina Woudschoten Conference (Utrecht 2024).
-- WCEH. World Congress of Environmental History (Oulu 2024).
-- ESHS. European Society for the History of Science (Barcelona 2024, Brussels 2022).
-- RUEDHA. Red Española de Historia Ambiental (Granada 2024, Granada 2022).
+- WCEH. World Congress of Environmental History (Oulu 2024, session organizer).
+- ESHS. European Society for the History of Science (Barcelona 2024, session organizer; Brussels 2022).
+- RUEDHA. Red Española de Historia Ambiental (Granada 2024, session organizer; Granada 2022).
 
 ### Invited Lectures
 - Closing address, **V Jornada d'Historiografia Local: Història ambiental i comunitats locals**, Centres d'Estudis de Parla Catalana (CCEPC), Institut Ramon Muntaner (IRMU), Institut d'Estudis Ilerdencs (IEI), Diputació de Lleida, 2025.
