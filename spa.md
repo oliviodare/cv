@@ -46,7 +46,7 @@ title: "Curriculum Vitae"
 - **AHC**. Asociación de Historia Contemporánea (València 2025).
 - **SEHCT**. Sociedad Española de Historia de las Ciencias y de las Técnicas (Xixón 2025).
 - **SPQ**. Société de philosophie du Québec (Québec City 2025).
-- **Gewina** Woudschoten Conference (Utrecht 2024).
+- **Gewina**. Belgian-Dutch Society for the History of Science and University Woudschoten Conference (Utrecht 2024).
 - **WCEH**. World Congress of Environmental History (Oulu 2024).
 - **ESHS**. European Society for the History of Science (Barcelona 2024, coordinador de sesión; Bruselas 2022).
 - **RUEDHA**. Red Española de Historia Ambiental (Granada 2024, coordinador de sesión; Granada 2022).

@@ -40,16 +40,16 @@ title: "Curriculum Vitae"
 - **Bautista Perpinyà, M.** & Pence, C.H. (2023). "David Sepkoski’s *Catastrophic Thinking*," *BJPS Review of Books*. <a href="https://www.thebsps.org/reviewofbooks/perpinya-pence-on-sepkoski/" target="_blank">https://www.thebsps.org/reviewofbooks/perpinya-pence-on-sepkoski/</a>.
 
 ### Comunicacions en congressos i sessions coordinades
-- ESHS/HSS. European Society for the History of Science / History of Science Society (Edimburg 2026, coordinador de sessió).
-- EURHO. European Rural History Organisation (Coïmbra 2025).
-- ISHPSSB. International Society for the History, Philosophy, and Social Studies of Biology (Porto 2025).
-- AHC. Asociación de Historia Contemporánea (València 2025).
-- SEHCT. Sociedad Española de Historia de las Ciencias y de las Técnicas (Xixón 2025).
-- SPQ. Société de philosophie du Québec (Québec City 2025).
-- Gewina Woudschoten Conference (Utrecht 2024).
-- WCEH. World Congress of Environmental History (Oulu 2024).
-- ESHS. European Society for the History of Science (Barcelona 2024, coordinador de sessió; Brussel·les 2022).
-- RUEDHA. Red Española de Historia Ambiental (Granada 2024, coordinador de sessió; Granada 2022).
+- **ESHS/HSS**. European Society for the History of Science / History of Science Society (Edimburg 2026, coordinador de sessió).
+- **EURHO**. European Rural History Organisation (Coïmbra 2025).
+- **ISHPSSB**. International Society for the History, Philosophy, and Social Studies of Biology (Porto 2025).
+- **AHC**. Asociación de Historia Contemporánea (València 2025).
+- **SEHCT**. Sociedad Española de Historia de las Ciencias y de las Técnicas (Xixón 2025).
+- **SPQ**. Société de philosophie du Québec (Québec City 2025).
+- **Gewina**. Belgian-Dutch Society for the History of Science and University Woudschoten Conference (Utrecht 2024).
+- **WCEH**. World Congress of Environmental History (Oulu 2024).
+- **ESHS**. European Society for the History of Science (Barcelona 2024, coordinador de sessió; Brussel·les 2022).
+- **RUEDHA**. Red Española de Historia Ambiental (Granada 2024, coordinador de sessió; Granada 2022).
 
 ### Conferències convidades
 - Conferència de cloenda, **V Jornada d'Historiografia Local: Història ambiental i comunitats locals**, Centres d'Estudis de Parla Catalana (CCEPC), Institut Ramon Muntaner (IRMU), Institut d'Estudis Ilerdencs (IEI), Diputació de Lleida, 2025.
