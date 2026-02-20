@@ -31,6 +31,9 @@ title: "Curriculum Vitae"
 ### Investigador visitante, Institut d’Història de la Ciència (UAB), 2024
 - Investigación de archivo, entrevistas y presentación de resultados preliminares a la comunidad del iHC.
 
+## Doctorando, Mapping and Responding to Taxonomic Disorder for the Biodiversity Crisis (PDR FNRS, Bélgica), 2021–2024
+- Proyecto filosófico sobre el alcance y las características del "desorden taxonómico" en la literatura científica. Responsable del estudio histórico de cómo se operacionaliza en la práctica el concepto de "biodiversidad" en la conservación de la naturaleza y la gestión forestal. IP: Charles H. Pence (UCLouvain).
+
 ## Publicaciones y comunicaciones
 ### Artículos
 - Devine, S., **Bautista Perpinyà, M.**, Delrue, V., Gaillard, S., Jorna, T. F. K., Meer, M. van der, Millett, L., Pozzebon, C., & Visser, J. (2020). "Science Fails. Let’s Publish" *Journal of Trial & Error*, 1(1). <a href="https://doi.org/10.36850/ed1" target="_blank">https://doi.org/10.36850/ed1</a>.
