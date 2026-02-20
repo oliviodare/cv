@@ -89,7 +89,7 @@ title: "Curriculum Vitae"
 - Coorganitzador, International workshop 'Integrating the History and Philosophy of Biodiversity: Narratives of Diversity, Extinction, Conflict and Value' (UCLouvain, Royal Belgian Institute of Natural Sciences, 2023).
 
 ## Servei a la comunitat
-- Representant del _Corps Scientifique - CORSCI_ (Doctorands, Postdoctorands, Assistents Docents, Col·laboradors Científics) al Institut supérieur de philosophie, UCLouvain (2024-25; 2025-26).
+- Representant del _Corps Scientifique - CORSCI_ (Doctorands, Postdoctorands, Assistents Docents, Col·laboradors Científics) a l'Institut supérieur de philosophie, UCLouvain (2024-25; 2025-26).
 
 ## Àrees de recerca
 - Història de l’ecologia i la enginyeria ‘de montes’; ecologisme i transicions polítiques; història ambiental; valors en la ciència; ciència oberta.
