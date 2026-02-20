@@ -31,7 +31,7 @@ title: "Curriculum Vitae"
 ### Investigador visitant, Institut d’Història de la Ciència (UAB), 2024
 - Treball d’arxiu, entrevistes i presentació de resultats preliminars a la comunitat de l’iHC.
 
-## Publicacions
+## Publicacions y comunicacions
 ### Articles
 - Devine, S., **Bautista Perpinyà, M.**, Delrue, V., Gaillard, S., Jorna, T. F. K., Meer, M. van der, Millett, L., Pozzebon, C., & Visser, J. (2020). "Science Fails. Let’s Publish" *Journal of Trial & Error*, 1(1). <a href="https://doi.org/10.36850/ed1" target="_blank">https://doi.org/10.36850/ed1</a>.
 - Burgos D.F., Cussó L., Sánchez-Elexpuru G., Calle D., **Bautista Perpinyà M.**, Desco M., Serratosa J.M., Sánchez M.P. (2020). "Structural and Functional Brain Abnormalities in Mouse Models of Lafora Disease." *International Journal of Molecular Sciences*. 21(20):7771. <a href="https://doi.org/10.3390/ijms21207771" target="_blank">https://doi.org/10.3390/ijms21207771</a>.
@@ -82,7 +82,7 @@ title: "Curriculum Vitae"
 ### Assistant Managing Editor, *Journal for the History of Knowledge*, 2020
 - Gestió de manuscrits, coordinació amb revisors i suport editorial.
 
-## Activitats professionals
+## Organització de congressos i tallers
 - Coorganitzador, Jornades CIMETEC de Joves Investigadores en Història de la Ciència, la Medicina i la Tecnologia (2026)
 - Coorganitzador, 10th PhD Belgian-Dutch Conference in the History of Science, Medicine, and the Humanities: Beyond Switching Plastic Straws (Gewina, 2025).
 - Coorganitzador, International workshop 'Disciplinary Crossroads: History of Science and Environmental History' (Institut d’Història de la Ciència-UAB, 2024).

@@ -83,7 +83,7 @@ title: "Curriculum Vitae"
 ### Assistant Managing Editor, Journal for the History of Knowledge, 2020
 - Manuscript processing, reviewer coordination, editorial management.
 
-## Professional Activities
+## Conference and Workshop Organisation
 - Co-Organizer, Jornadas CIMETEC, Young Iberian Conference in History of Science, Medicine & Technology (2026)
 - Co-Organizer, 10th PhD Belgian-Dutch Conference in the History of Science, Medicine, and the Humanities: Beyond Switching Plastic Straws (Gewina, 2025)
 - Co-Organizer, International workshop 'Disciplinary Crossroads: History of Science and Environmental History' (Institut d’Història de la Ciència-UAB, 2024)
