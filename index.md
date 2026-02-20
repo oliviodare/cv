@@ -89,7 +89,7 @@ title: "Curriculum Vitae"
 - Co-Organizer, International workshop 'Disciplinary Crossroads: History of Science and Environmental History' (Institut d’Història de la Ciència-UAB, 2024)
 - Co-Organizer, International workshop 'Integrating the History and Philosophy of Biodiversity: Narratives of Diversity, Extinction, Conflict and Value' (UCLouvain & Royal Belgian Institute of Natural Sciences, 2023)
 
-# Service to the Community
+## Service to the Community
 - Representative of _Corps Scientifique - CORSCI_ (PhDs, Postdocs, Teaching Assistants, Scientific Collaborators) at the Institut supérieur de philosophie, UCLouvain (2024-25; 2025-26).
 
 ## Research Areas
