@@ -26,12 +26,12 @@ title: "Curriculum Vitae"
 
 ## Proyectos de Investigación
 ### Miembro del grupo de trabajo, EXCHANGESCI (Ministerio de Ciencia, España), 2025–
-- Proyecto sobre “zonas de intercambio” entre academia, activismo e industria en la tecnociencia ibérica (1930–1990).
+- Proyecto sobre “zonas de intercambio” entre academia, activismo e industria en la tecnociencia ibérica (1930–1990). IP: Jaume Valentines-Álvarez (iHC-UAB).
 
 ### Investigador visitante, Institut d’Història de la Ciència (UAB), 2024
 - Investigación de archivo, entrevistas y presentación de resultados preliminares a la comunidad del iHC.
 
-## Doctorando, Mapping and Responding to Taxonomic Disorder for the Biodiversity Crisis (PDR FNRS, Bélgica), 2021–2024
+### Doctorando, Mapping and Responding to Taxonomic Disorder for the Biodiversity Crisis (PDR FNRS, Bélgica), 2021–2024
 - Proyecto filosófico sobre el alcance y las características del "desorden taxonómico" en la literatura científica. Responsable del estudio histórico de cómo se operacionaliza en la práctica el concepto de "biodiversidad" en la conservación de la naturaleza y la gestión forestal. IP: Charles H. Pence (UCLouvain).
 
 ## Publicaciones y comunicaciones
