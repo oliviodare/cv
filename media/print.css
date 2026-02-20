@@ -90,3 +90,9 @@ td {
 
 td img {
     margin-right: 0.5em; /* Adjust spacing between icon and text */}
+
+h2 + p,
+h2 + ul,
+h2 + table {
+    margin-top: 0.2em;
+}
