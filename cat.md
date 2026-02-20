@@ -31,7 +31,7 @@ title: "Curriculum Vitae"
 ### Investigador visitant, Institut d’Història de la Ciència (UAB), 2024
 - Treball d’arxiu, entrevistes i presentació de resultats preliminars a la comunitat de l’iHC.
 
-### Doctorand, Mapping and Responding to Taxonomic Disorder for the Biodiversity Crisis (PDR FNRS, Bèlgica), 2021–2024
+### Doctorand, Mapping and Responding to Taxonomic Disorder for the Biodiversity Crisis (Fonds de la recherche scientifique, Bèlgica), 2021–2024
 - Projecte filosòfic sobre l’abast i les característiques del "desordre taxonòmic" en la literatura científica. Responsable de l’estudi històric de com s’operacionalitza a la pràctica el concepte de "biodiversitat" en la conservació de la natura i la gestió forestal. IP: Charles H. Pence (UCLouvain).
 
 ## Publicacions y comunicacions
