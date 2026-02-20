@@ -39,6 +39,9 @@ title: "Curriculum Vitae"
 ### Reseñas de libros
 - **Bautista Perpinyà, M.** & Pence, C.H. (2023). "David Sepkoski’s *Catastrophic Thinking*," *BJPS Review of Books*. <a href="https://www.thebsps.org/reviewofbooks/perpinya-pence-on-sepkoski/" target="_blank">https://www.thebsps.org/reviewofbooks/perpinya-pence-on-sepkoski/</a>.
 
+### Próximamente
+- **Bautista Perpinyà, M.** (forthcoming). “Conclusions: Entre l’acadèmia i l’associatiu: cap a una història ambiental arrelada.” In *Història ambiental i comunitats locals*, eds. Judit Gil-Farrero & Carlos Moruno. Serie Historiografia local. Afers. Invited contribution.
+
 ### Comunicaciones en congresos y sesiones coordinadas
 - **ESHS/HSS**. European Society for the History of Science / History of Science Society (Edimburgo 2026, coordinador de sesión).
 - **EURHO**. European Rural History Organisation (Coímbra 2025).

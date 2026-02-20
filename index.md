@@ -32,12 +32,16 @@ title: "Curriculum Vitae"
 - Archival research, interviews, and presentation of preliminary findings to the iHC community.
 
 ## Publications
-### Articles
-- Devine, S., **Bautista Perpinyà, M.**, Delrue, V., Gaillard, S., Jorna, T. F. K., Meer, M. van der, Millett, L., Pozzebon, C., & Visser, J. (2020). "Science Fails. Let’s Publish" *Journal of Trial & Error*, 1(1). <a href="https://doi.org/10.36850/ed1" target="_blank">https://doi.org/10.36850/ed1</a>.
-- Burgos D.F., Cussó L., Sánchez-Elexpuru G., Calle D., **Bautista Perpinyà M.**, Desco M., Serratosa J.M., Sánchez M.P. (2020). "Structural and Functional Brain Abnormalities in Mouse Models of Lafora Disease." *International Journal of Molecular Sciences*. 2020; 21(20):7771. <a href="https://doi.org/10.3390/ijms21207771" target="_blank">https://doi.org/10.3390/ijms21207771</a>.
 
-### Book reviews
-- **Bautista Perpinyà, M.** & Pence, C.H. (2023) "David Sepkoski’s *Catastrophic Thinking*," *BJPS Review of Books*. <a href="https://www.thebsps.org/reviewofbooks/perpinya-pence-on-sepkoski/" target="_blank">https://www.thebsps.org/reviewofbooks/perpinya-pence-on-sepkoski/</a>.
+### Articles
+- Devine, S., **Bautista Perpinyà, M.**, Delrue, V., Gaillard, S., Jorna, T. F. K., Meer, M. van der, Millett, L., Pozzebon, C., & Visser, J. (2020). "Science Fails. Let’s Publish." *Journal of Trial & Error*, 1(1). <a href="https://doi.org/10.36850/ed1" target="_blank">https://doi.org/10.36850/ed1</a>.
+- Burgos, D. F., Cussó, L., Sánchez-Elexpuru, G., Calle, D., **Bautista Perpinyà, M.**, Desco, M., Serratosa, J. M., Sánchez, M. P. (2020). "Structural and Functional Brain Abnormalities in Mouse Models of Lafora Disease." *International Journal of Molecular Sciences*, 21(20), 7771. <a href="https://doi.org/10.3390/ijms21207771" target="_blank">https://doi.org/10.3390/ijms21207771</a>.
+
+### Book Reviews
+- **Bautista Perpinyà, M.** & Pence, C. H. (2023). Review of David Sepkoski’s *Catastrophic Thinking*. *BJPS Review of Books*. <a href="https://www.thebsps.org/reviewofbooks/perpinya-pence-on-sepkoski/" target="_blank">https://www.thebsps.org/reviewofbooks/perpinya-pence-on-sepkoski/</a>.
+
+### Forthcoming
+- **Bautista Perpinyà, M.** (forthcoming). “Conclusions: Entre l’acadèmia i l’associatiu: cap a una història ambiental arrelada.” In *Història ambiental i comunitats locals*, eds. Judit Gil-Farrero & Carlos Moruno. Serie Historiografia local. Afers. Invited contribution.
 
 ### Conference Presentations and Sessions Organized
 - **ESHS/HSS**. European Society for the History of Science/History of Science Society (Edinburgh 2026, session organizer).
