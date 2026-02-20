@@ -43,17 +43,17 @@ title: "Curriculum Vitae"
 ### Forthcoming
 - **Bautista Perpinyà, M.** (forthcoming). “Conclusions: Entre l’acadèmia i l’associatiu: cap a una història ambiental arrelada.” In *Història ambiental i comunitats locals*, eds. Judit Gil-Farrero & Carlos Moruno. Serie Historiografia local. Afers. Invited contribution.
 
-### Conference Presentations and Sessions Organized
-- **ESHS/HSS**. European Society for the History of Science/History of Science Society (Edinburgh 2026, session organizer).
+### Conference Presentations and Sessions Organised
+- **ESHS/HSS**. European Society for the History of Science/History of Science Society (Edinburgh 2026, session organiser).
 - **EURHO**. European Rural History Organisation (Coimbra 2025).
 - **ISHPSSB**. International Society for the History, Philosophy, and Social Studies of Biology (Porto 2025).
 - **AHC**. Asociación de Historia Contemporánea (València 2025).
 - **SEHCT**. Sociedad Española de Historia de las Ciencias y de las Técnicas (Xixón 2025).
 - **SPQ**. Société de philosophie du Québec (Québec City 2025).
 - **Gewina**. Belgian-Dutch Society for the History of Science and University Woudschoten Conference (Utrecht 2024).
-- **WCEH**. World Congress of Environmental History (Oulu 2024, session organizer).
-- **ESHS**. European Society for the History of Science (Barcelona 2024, session organizer; Brussels 2022).
-- **RUEDHA**. Red Española de Historia Ambiental (Granada 2024, session organizer; Granada 2022).
+- **WCEH**. World Congress of Environmental History (Oulu 2024, session organiser).
+- **ESHS**. European Society for the History of Science (Barcelona 2024, session organiser; Brussels 2022).
+- **RUEDHA**. Red Española de Historia Ambiental (Granada 2024, session organiser; Granada 2022).
 
 ### Invited Lectures
 - Closing address, **V Jornada d'Historiografia Local: Història ambiental i comunitats locals**, Centres d'Estudis de Parla Catalana (CCEPC), Institut Ramon Muntaner (IRMU), Institut d'Estudis Ilerdencs (IEI), Diputació de Lleida, 2025.
@@ -84,10 +84,10 @@ title: "Curriculum Vitae"
 - Manuscript processing, reviewer coordination, editorial management.
 
 ## Conference and Workshop Organisation
-- Co-Organizer, Jornadas CIMETEC, Young Iberian Conference in History of Science, Medicine & Technology (2026)
-- Co-Organizer, 10th PhD Belgian-Dutch Conference in the History of Science, Medicine, and the Humanities: Beyond Switching Plastic Straws (Gewina, 2025)
-- Co-Organizer, International workshop 'Disciplinary Crossroads: History of Science and Environmental History' (Institut d’Història de la Ciència-UAB, 2024)
-- Co-Organizer, International workshop 'Integrating the History and Philosophy of Biodiversity: Narratives of Diversity, Extinction, Conflict and Value' (UCLouvain & Royal Belgian Institute of Natural Sciences, 2023)
+- Co-Organiser, Jornadas CIMETEC, Young Iberian Conference in History of Science, Medicine & Technology (2026)
+- Co-Organiser, 10th PhD Belgian-Dutch Conference in the History of Science, Medicine, and the Humanities: Beyond Switching Plastic Straws (Gewina, 2025)
+- Co-Organiser, International workshop 'Disciplinary Crossroads: History of Science and Environmental History' (Institut d’Història de la Ciència-UAB, 2024)
+- Co-Organiser, International workshop 'Integrating the History and Philosophy of Biodiversity: Narratives of Diversity, Extinction, Conflict and Value' (UCLouvain & Royal Belgian Institute of Natural Sciences, 2023)
 
 ## Service to the Community
 - Representative of _Corps Scientifique - CORSCI_ (PhDs, Postdocs, Teaching Assistants, Scientific Collaborators) at the Institut supérieur de philosophie, UCLouvain (2024-25; 2025-26).
