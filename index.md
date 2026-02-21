@@ -25,8 +25,8 @@ title: "Curriculum Vitae"
 - Diss.: "Limbic morphology and emotion in Borderline Personality Disorder".
 
 ## Research Projects
-### Working Group Member, EXCHANGESCI (Ministerio de Ciencia, Spain), 2025–
-- Project on 'exchange zones' between academics, activists, and industry in Iberian technoscience (1930s–1990s). PI: Jaume Valentines-Álvarez (iHC-UAB).
+### Working Group Member, EXCHANGESCI (Ministerio de Ciencia, Innovación y Universidades, Spain), 2025–
+- Exchange Zones of Epistemic Resistance and Alternative Innovation: Activism, Grassroots Movements and Expertise in the Iberian Peninsula, 1970s-1990s. PI: Jaume Valentines-Álvarez (iHC-UAB).
 
 ### Visiting Researcher, Institut d’Història de la Ciència (UAB), 2024
 - Archival research, interviews, and presentation of preliminary findings to the iHC community.

@@ -25,8 +25,8 @@ title: "Curriculum Vitae"
 - Tesis: "Limbic morphology and emotion in Borderline Personality Disorder".
 
 ## Proyectos de Investigación
-### Miembro del grupo de trabajo, EXCHANGESCI (Ministerio de Ciencia, España), 2025–
-- Proyecto sobre “zonas de intercambio” entre academia, activismo e industria en la tecnociencia ibérica (1930–1990). IP: Jaume Valentines-Álvarez (iHC-UAB).
+### Miembro del grupo de trabajo, EXCHANGESCI (Ministerio de Ciencia, Innovación y Universidades), 2025–
+- Activistas, movimientos populares y expertos, 1970s-1990s. Zonas de intercambio de resistencias epistémicas y alternativas en la innovación en la Península Ibérica. IP: Jaume Valentines-Álvarez (iHC-UAB).
 
 ### Investigador visitante, Institut d’Història de la Ciència (UAB), 2024
 - Investigación de archivo, entrevistas y presentación de resultados preliminares a la comunidad del iHC.
