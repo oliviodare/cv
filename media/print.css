@@ -96,3 +96,15 @@ h2 + ul,
 h2 + table {
     margin-top: 0.2em;
 }
+
+h4 {
+    margin-top: 0.6em;
+    margin-bottom: 0.15em;
+    line-height: 1.1;
+}
+
+h4 + p,
+h4 + ul,
+h4 + table {
+    margin-top: 0.1em;
+}
