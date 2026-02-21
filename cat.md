@@ -3,7 +3,7 @@ layout: default
 title: "Curriculum Vitae"
 ---
 
-# Max Bautista-Perpinyà
+# Max Bautista Perpinyà
 <table>
   <tr>
     <td><a href="mailto:max.bautista@uclouvain.be"><img src="media/email.png" style="width: 1em; margin-inline-start: 0.5em" alt="email icon"/>max.bautista@uclouvain.be</a></td>
