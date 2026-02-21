@@ -32,7 +32,7 @@ title: "Curriculum Vitae"
 - Investigación de archivo, entrevistas y presentación de resultados preliminares a la comunidad del iHC.
 
 ### Doctorando, Mapping and Responding to Taxonomic Disorder for the Biodiversity Crisis (Fonds de la recherche scientifique, Bélgica), 2021–2024
-- Proyecto filosófico sobre el alcance y las características del "desorden taxonómico" en la literatura científica. Responsable del estudio histórico de cómo se operacionaliza en la práctica el concepto de "biodiversidad" en la conservación de la naturaleza y la gestión forestal. IP: Charles H. Pence (UCLouvain).
+- Proyecto filosófico sobre el alcance y las características del "desorden taxonómico" en la literatura científica. Responsable del estudio histórico sobre como el concepto de "biodiversidad" se operacionaliza en prácticas de conservación de la naturaleza y gestión forestal. IP: Charles H. Pence (UCLouvain).
 
 ## Publicaciones y comunicaciones
 ### Artículos
