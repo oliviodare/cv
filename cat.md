@@ -16,7 +16,7 @@ title: "Curriculum Vitae"
 ## Educació
 ### Doctorand en Filosofia (Université catholique de Louvain)
 - Aspirant FNRS (beca doctoral de 4 anys).  
-- Tesi: "Many Forests, Convergent Politics. Forest Genetics, Terrestrial Ecology, and the Environmentalist Movement in the Making of Spanish Contemporary Democracy (1943–2007)".
+- Tesi: "Politicised Sciences. Forest Genetics, Terrestrial Ecology, and Environmental Activism in the Making of Spanish Contemporary Democracy (1943–2003)".
 
 ### Màster en Història i Filosofia de la Ciència, Cum Laude (Utrecht University, 2020)
 - Tesi: "To be a molecular scientist. The negotiation of epistemic and social virtues in 1970s *Nature*’s marketplace".
